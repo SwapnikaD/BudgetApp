@@ -1,501 +1,501 @@
 Date,Description,Amount,Card,Category,Sub Category
-2024-01-08,Hotel,389.93,Mastercard,Travel,Lodging
-2024-03-18,Gym Membership,471.62,Visa,Health,Fitness
-2024-10-25,Utility Bill,280.48,Discover,Bills,Utilities
-2024-12-02,Parking,268.21,Mastercard,Transport,Parking
-2024-03-20,Online Purchase,111.92,Amex,Shopping,E-commerce
-2024-06-15,Fast Food,40.66,Discover,Food,Quick Eats
-2024-09-22,Clothing Store,103.32,Amex,Shopping,Clothing
-2024-09-06,Ride Sharing,90.77,Discover,Transport,Taxi/Ride
-2024-10-11,Subscription Service,142.71,Discover,Services,Recurring
-2024-08-15,Grocery Store,134.9,Amex,Food,Groceries
-2024-12-22,Utility Bill,452.59,Amex,Bills,Utilities
-2024-08-06,Online Purchase,220.57,Discover,Shopping,E-commerce
-2024-07-24,Streaming Service,305.56,Visa,Entertainment,Streaming
-2024-11-06,Fast Food,363.96,Amex,Food,Quick Eats
-2024-10-21,Movie Theater,132.69,Discover,Entertainment,Movies
-2024-02-04,Streaming Service,417.57,Discover,Entertainment,Streaming
-2024-12-03,Gas Station,399.89,Visa,Auto,Fuel
-2024-06-13,Online Purchase,474.08,Visa,Shopping,E-commerce
-2024-02-16,Fast Food,334.55,Mastercard,Food,Quick Eats
-2024-09-13,Utility Bill,25.57,Amex,Bills,Utilities
-2024-05-24,Fast Food,332.98,Mastercard,Food,Quick Eats
-2024-09-08,Parking,58.92,Mastercard,Transport,Parking
-2024-01-14,Pharmacy,119.28,Visa,Health,Medicine
-2024-11-05,Hotel,234.84,Amex,Travel,Lodging
-2024-04-22,Pharmacy,432.51,Mastercard,Health,Medicine
-2024-10-11,Parking,5.15,Mastercard,Transport,Parking
-2024-07-12,Gas Station,215.37,Discover,Auto,Fuel
-2024-01-24,Grocery Store,395.41,Amex,Food,Groceries
-2024-09-12,Hotel,306.74,Discover,Travel,Lodging
-2024-08-02,Utility Bill,389.95,Visa,Bills,Utilities
-2024-05-21,Fast Food,245.19,Mastercard,Food,Quick Eats
-2024-09-21,Gas Station,287.65,Amex,Auto,Fuel
-2024-11-17,Streaming Service,382.12,Visa,Entertainment,Streaming
-2024-09-05,Gas Station,354.76,Mastercard,Auto,Fuel
-2024-05-09,Ride Sharing,285.96,Mastercard,Transport,Taxi/Ride
-2024-05-27,Subscription Service,130.41,Discover,Services,Recurring
-2024-02-28,Bookstore,278.24,Discover,Shopping,Books
-2024-04-27,Movie Theater,398.36,Discover,Entertainment,Movies
-2024-02-06,Coffee Shop,130.77,Discover,Food,Coffee
-2024-08-25,Airline,99.1,Mastercard,Travel,Flights
-2024-12-15,Airline,138.42,Mastercard,Travel,Flights
-2024-04-30,Supermarket,235.46,Visa,Food,Groceries
-2024-09-17,Clothing Store,94.89,Visa,Shopping,Clothing
-2024-05-23,Utility Bill,255.82,Visa,Bills,Utilities
-2024-02-20,Online Purchase,452.56,Mastercard,Shopping,E-commerce
-2024-06-22,Bookstore,263.7,Mastercard,Shopping,Books
-2024-08-18,Movie Theater,135.0,Visa,Entertainment,Movies
-2024-12-02,Grocery Store,288.66,Discover,Food,Groceries
-2024-04-05,Pharmacy,467.27,Visa,Health,Medicine
-2024-12-12,Gym Membership,236.01,Mastercard,Health,Fitness
-2024-02-29,Fast Food,217.64,Amex,Food,Quick Eats
-2024-02-18,Clothing Store,175.35,Visa,Shopping,Clothing
-2024-10-03,Coffee Shop,207.15,Mastercard,Food,Coffee
-2024-08-22,Airline,301.99,Amex,Travel,Flights
-2024-11-13,Hotel,354.61,Visa,Travel,Lodging
-2024-11-03,Coffee Shop,383.16,Discover,Food,Coffee
-2024-02-04,Fast Food,439.15,Mastercard,Food,Quick Eats
-2024-03-27,Ride Sharing,459.26,Mastercard,Transport,Taxi/Ride
-2024-12-01,Clothing Store,236.52,Visa,Shopping,Clothing
-2024-09-17,Hotel,192.56,Discover,Travel,Lodging
-2024-01-03,Gym Membership,44.68,Mastercard,Health,Fitness
-2024-12-18,Airline,441.69,Mastercard,Travel,Flights
-2024-01-05,Hotel,20.42,Amex,Travel,Lodging
-2024-03-24,Online Purchase,188.86,Amex,Shopping,E-commerce
-2024-01-21,Hotel,340.78,Discover,Travel,Lodging
-2024-01-29,Movie Theater,390.2,Amex,Entertainment,Movies
-2024-11-15,Pharmacy,117.71,Amex,Health,Medicine
-2024-01-09,Utility Bill,476.98,Amex,Bills,Utilities
-2024-06-27,Coffee Shop,92.52,Visa,Food,Coffee
-2024-05-12,Electronics Store,161.66,Amex,Shopping,Electronics
-2024-01-13,Fast Food,53.72,Discover,Food,Quick Eats
-2024-07-16,Streaming Service,348.78,Discover,Entertainment,Streaming
-2024-03-27,Pharmacy,142.48,Discover,Health,Medicine
-2024-10-28,Gas Station,147.91,Mastercard,Auto,Fuel
-2024-09-15,Restaurant,61.76,Mastercard,Food,Dining
-2024-03-21,Movie Theater,204.85,Amex,Entertainment,Movies
-2024-05-15,Parking,186.26,Amex,Transport,Parking
-2024-04-02,Gas Station,113.5,Amex,Auto,Fuel
-2024-01-26,Subscription Service,283.52,Discover,Services,Recurring
-2024-02-04,Pharmacy,177.37,Amex,Health,Medicine
-2024-03-08,Supermarket,287.99,Discover,Food,Groceries
-2024-04-05,Fast Food,429.84,Visa,Food,Quick Eats
-2024-08-04,Subscription Service,214.53,Discover,Services,Recurring
-2024-06-13,Clothing Store,85.62,Amex,Shopping,Clothing
-2024-05-03,Clothing Store,183.87,Visa,Shopping,Clothing
-2024-08-18,Parking,455.86,Visa,Transport,Parking
-2024-09-14,Hotel,132.94,Visa,Travel,Lodging
-2024-09-06,Supermarket,463.76,Mastercard,Food,Groceries
-2024-11-20,Electronics Store,331.61,Amex,Shopping,Electronics
-2024-06-15,Coffee Shop,178.79,Visa,Food,Coffee
-2024-07-03,Clothing Store,14.28,Mastercard,Shopping,Clothing
-2024-09-05,Hotel,122.39,Visa,Travel,Lodging
-2024-03-27,Hotel,34.96,Mastercard,Travel,Lodging
-2024-12-30,Grocery Store,147.04,Visa,Food,Groceries
-2024-10-23,Pharmacy,373.16,Mastercard,Health,Medicine
-2024-02-11,Gas Station,136.7,Mastercard,Auto,Fuel
-2024-07-07,Airline,383.48,Visa,Travel,Flights
-2024-03-03,Electronics Store,334.44,Amex,Shopping,Electronics
-2024-10-10,Ride Sharing,258.96,Mastercard,Transport,Taxi/Ride
-2024-11-07,Grocery Store,81.61,Amex,Food,Groceries
-2024-12-15,Gym Membership,278.88,Mastercard,Health,Fitness
-2024-10-28,Ride Sharing,22.82,Amex,Transport,Taxi/Ride
-2024-08-06,Pharmacy,109.66,Amex,Health,Medicine
-2024-02-04,Coffee Shop,467.17,Discover,Food,Coffee
-2024-04-16,Fast Food,441.72,Amex,Food,Quick Eats
-2024-01-13,Utility Bill,450.97,Mastercard,Bills,Utilities
-2024-11-13,Bookstore,426.58,Amex,Shopping,Books
-2024-09-28,Streaming Service,371.65,Visa,Entertainment,Streaming
-2024-09-20,Restaurant,427.17,Visa,Food,Dining
-2024-11-16,Restaurant,287.21,Amex,Food,Dining
-2024-05-23,Grocery Store,392.29,Amex,Food,Groceries
-2024-07-04,Grocery Store,240.09,Amex,Food,Groceries
-2024-05-02,Grocery Store,420.0,Discover,Food,Groceries
-2024-08-06,Supermarket,169.21,Visa,Food,Groceries
-2024-12-24,Coffee Shop,233.17,Mastercard,Food,Coffee
-2024-09-30,Pharmacy,108.34,Mastercard,Health,Medicine
-2024-10-06,Fast Food,10.06,Visa,Food,Quick Eats
-2024-03-22,Coffee Shop,430.54,Mastercard,Food,Coffee
-2024-11-16,Parking,20.08,Mastercard,Transport,Parking
-2024-10-18,Streaming Service,319.74,Amex,Entertainment,Streaming
-2024-11-20,Ride Sharing,138.44,Visa,Transport,Taxi/Ride
-2024-06-08,Supermarket,404.55,Amex,Food,Groceries
-2024-09-04,Gym Membership,69.97,Mastercard,Health,Fitness
-2024-09-04,Gym Membership,39.35,Visa,Health,Fitness
-2024-12-09,Coffee Shop,332.55,Amex,Food,Coffee
-2024-04-19,Electronics Store,119.62,Amex,Shopping,Electronics
-2024-03-31,Airline,39.53,Amex,Travel,Flights
-2024-09-22,Ride Sharing,253.54,Discover,Transport,Taxi/Ride
-2024-05-22,Subscription Service,246.38,Amex,Services,Recurring
-2024-11-06,Streaming Service,172.62,Mastercard,Entertainment,Streaming
-2024-10-22,Utility Bill,220.79,Mastercard,Bills,Utilities
-2024-01-01,Coffee Shop,186.57,Mastercard,Food,Coffee
-2024-12-24,Gas Station,418.9,Visa,Auto,Fuel
-2024-06-21,Parking,280.93,Amex,Transport,Parking
-2024-02-17,Ride Sharing,443.21,Amex,Transport,Taxi/Ride
-2024-05-09,Movie Theater,25.51,Discover,Entertainment,Movies
-2024-09-30,Gym Membership,375.18,Discover,Health,Fitness
-2024-04-26,Electronics Store,245.13,Amex,Shopping,Electronics
-2024-01-31,Restaurant,78.97,Amex,Food,Dining
-2024-04-19,Hotel,391.9,Amex,Travel,Lodging
-2024-10-16,Parking,429.55,Discover,Transport,Parking
-2024-11-20,Movie Theater,297.82,Amex,Entertainment,Movies
-2024-06-02,Gym Membership,393.62,Amex,Health,Fitness
-2024-10-26,Subscription Service,33.12,Mastercard,Services,Recurring
-2024-09-25,Bookstore,448.94,Mastercard,Shopping,Books
-2024-09-03,Gas Station,326.86,Amex,Auto,Fuel
-2024-05-24,Supermarket,426.6,Amex,Food,Groceries
-2024-10-24,Movie Theater,384.85,Visa,Entertainment,Movies
-2024-07-01,Pharmacy,447.68,Visa,Health,Medicine
-2024-05-14,Airline,453.0,Amex,Travel,Flights
-2024-09-29,Streaming Service,441.31,Discover,Entertainment,Streaming
-2024-09-07,Grocery Store,161.32,Discover,Food,Groceries
-2024-10-19,Bookstore,142.08,Mastercard,Shopping,Books
-2024-02-03,Parking,152.3,Amex,Transport,Parking
-2024-01-23,Electronics Store,155.24,Visa,Shopping,Electronics
-2024-06-05,Parking,145.25,Amex,Transport,Parking
-2024-10-15,Gas Station,42.93,Discover,Auto,Fuel
-2024-04-19,Pharmacy,282.53,Mastercard,Health,Medicine
-2024-11-04,Hotel,215.46,Mastercard,Travel,Lodging
-2024-12-17,Pharmacy,411.49,Mastercard,Health,Medicine
-2024-12-10,Parking,14.92,Discover,Transport,Parking
-2024-02-13,Electronics Store,210.22,Mastercard,Shopping,Electronics
-2024-07-12,Pharmacy,308.99,Mastercard,Health,Medicine
-2024-06-27,Clothing Store,13.39,Discover,Shopping,Clothing
-2024-08-23,Subscription Service,156.05,Visa,Services,Recurring
-2024-08-22,Pharmacy,311.57,Amex,Health,Medicine
-2024-11-29,Airline,85.56,Visa,Travel,Flights
-2024-12-19,Online Purchase,320.14,Discover,Shopping,E-commerce
-2024-05-01,Online Purchase,115.03,Mastercard,Shopping,E-commerce
-2024-08-10,Clothing Store,325.09,Visa,Shopping,Clothing
-2024-01-27,Utility Bill,108.53,Visa,Bills,Utilities
-2024-03-23,Hotel,30.41,Mastercard,Travel,Lodging
-2024-08-22,Gas Station,117.11,Visa,Auto,Fuel
-2024-09-29,Gym Membership,312.47,Mastercard,Health,Fitness
-2024-04-25,Gas Station,286.44,Discover,Auto,Fuel
-2024-11-19,Utility Bill,71.75,Mastercard,Bills,Utilities
-2024-10-21,Online Purchase,103.57,Discover,Shopping,E-commerce
-2024-06-08,Utility Bill,316.92,Mastercard,Bills,Utilities
-2024-02-23,Gas Station,41.36,Mastercard,Auto,Fuel
-2024-04-08,Utility Bill,299.55,Visa,Bills,Utilities
-2024-02-17,Supermarket,378.68,Mastercard,Food,Groceries
-2024-11-07,Parking,24.43,Mastercard,Transport,Parking
-2024-06-03,Utility Bill,240.49,Discover,Bills,Utilities
-2024-10-06,Electronics Store,376.77,Visa,Shopping,Electronics
-2024-03-04,Gym Membership,35.41,Visa,Health,Fitness
-2024-08-19,Coffee Shop,133.71,Visa,Food,Coffee
-2024-09-14,Grocery Store,327.01,Visa,Food,Groceries
-2024-10-06,Clothing Store,140.9,Amex,Shopping,Clothing
-2024-07-24,Movie Theater,90.95,Discover,Entertainment,Movies
-2024-01-26,Supermarket,30.02,Mastercard,Food,Groceries
-2024-01-14,Movie Theater,76.08,Amex,Entertainment,Movies
-2024-01-02,Ride Sharing,68.27,Mastercard,Transport,Taxi/Ride
-2024-11-08,Restaurant,104.26,Discover,Food,Dining
-2024-07-11,Supermarket,396.41,Mastercard,Food,Groceries
-2024-01-14,Online Purchase,466.32,Mastercard,Shopping,E-commerce
-2024-03-17,Restaurant,278.89,Mastercard,Food,Dining
-2024-05-07,Ride Sharing,107.22,Discover,Transport,Taxi/Ride
-2024-08-28,Grocery Store,410.62,Visa,Food,Groceries
-2024-06-25,Restaurant,245.65,Discover,Food,Dining
-2024-03-02,Clothing Store,424.4,Amex,Shopping,Clothing
-2024-11-09,Electronics Store,382.37,Amex,Shopping,Electronics
-2024-04-13,Pharmacy,302.42,Amex,Health,Medicine
-2024-01-27,Gym Membership,213.67,Mastercard,Health,Fitness
-2024-03-29,Ride Sharing,165.65,Amex,Transport,Taxi/Ride
-2024-07-28,Hotel,77.82,Discover,Travel,Lodging
-2024-09-19,Ride Sharing,74.36,Discover,Transport,Taxi/Ride
-2024-12-21,Pharmacy,336.5,Mastercard,Health,Medicine
-2024-11-13,Airline,239.37,Discover,Travel,Flights
-2024-06-15,Grocery Store,311.66,Mastercard,Food,Groceries
-2024-09-20,Utility Bill,222.71,Discover,Bills,Utilities
-2024-06-09,Subscription Service,373.12,Visa,Services,Recurring
-2024-01-16,Utility Bill,477.29,Discover,Bills,Utilities
-2024-05-20,Airline,288.41,Mastercard,Travel,Flights
-2024-09-30,Movie Theater,40.86,Visa,Entertainment,Movies
-2024-09-27,Grocery Store,36.14,Mastercard,Food,Groceries
-2024-08-09,Hotel,63.01,Mastercard,Travel,Lodging
-2024-10-03,Parking,34.53,Amex,Transport,Parking
-2024-03-17,Pharmacy,315.9,Discover,Health,Medicine
-2024-09-13,Airline,43.05,Mastercard,Travel,Flights
-2024-08-22,Electronics Store,483.73,Discover,Shopping,Electronics
-2024-04-14,Electronics Store,259.5,Discover,Shopping,Electronics
-2024-12-26,Ride Sharing,399.64,Mastercard,Transport,Taxi/Ride
-2024-06-04,Fast Food,26.69,Visa,Food,Quick Eats
-2024-11-14,Streaming Service,209.6,Mastercard,Entertainment,Streaming
-2024-12-10,Pharmacy,496.45,Discover,Health,Medicine
-2024-05-31,Hotel,112.92,Amex,Travel,Lodging
-2024-11-24,Parking,41.68,Mastercard,Transport,Parking
-2024-08-05,Pharmacy,414.82,Discover,Health,Medicine
-2024-07-08,Utility Bill,287.01,Amex,Bills,Utilities
-2024-08-10,Movie Theater,49.72,Discover,Entertainment,Movies
-2024-02-28,Hotel,339.16,Amex,Travel,Lodging
-2024-04-18,Subscription Service,294.72,Visa,Services,Recurring
-2024-08-08,Streaming Service,389.78,Discover,Entertainment,Streaming
-2024-06-02,Hotel,26.54,Discover,Travel,Lodging
-2024-03-18,Ride Sharing,346.88,Mastercard,Transport,Taxi/Ride
-2024-12-29,Utility Bill,356.82,Visa,Bills,Utilities
-2024-01-16,Parking,206.48,Discover,Transport,Parking
-2024-01-13,Coffee Shop,308.36,Amex,Food,Coffee
-2024-06-04,Gas Station,235.34,Visa,Auto,Fuel
-2024-09-21,Streaming Service,75.56,Amex,Entertainment,Streaming
-2024-05-18,Supermarket,146.19,Mastercard,Food,Groceries
-2024-04-23,Airline,144.02,Mastercard,Travel,Flights
-2024-12-13,Ride Sharing,454.18,Mastercard,Transport,Taxi/Ride
-2024-03-19,Bookstore,464.84,Mastercard,Shopping,Books
-2024-08-15,Subscription Service,133.27,Visa,Services,Recurring
-2024-09-19,Grocery Store,142.69,Amex,Food,Groceries
-2024-05-30,Ride Sharing,136.58,Mastercard,Transport,Taxi/Ride
-2024-05-05,Fast Food,145.29,Amex,Food,Quick Eats
-2024-03-25,Fast Food,58.84,Mastercard,Food,Quick Eats
-2024-07-16,Fast Food,113.26,Discover,Food,Quick Eats
-2024-10-24,Hotel,491.79,Visa,Travel,Lodging
-2024-05-23,Restaurant,494.51,Amex,Food,Dining
-2024-12-18,Online Purchase,436.3,Amex,Shopping,E-commerce
-2024-11-30,Bookstore,398.86,Mastercard,Shopping,Books
-2024-05-24,Grocery Store,166.95,Visa,Food,Groceries
-2024-12-07,Gas Station,73.11,Visa,Auto,Fuel
-2024-04-09,Hotel,386.68,Mastercard,Travel,Lodging
-2024-12-13,Parking,115.65,Amex,Transport,Parking
-2024-03-01,Fast Food,427.54,Mastercard,Food,Quick Eats
-2024-09-15,Streaming Service,84.19,Mastercard,Entertainment,Streaming
-2024-12-01,Restaurant,251.51,Visa,Food,Dining
-2024-08-05,Supermarket,201.68,Visa,Food,Groceries
-2024-11-01,Subscription Service,22.6,Visa,Services,Recurring
-2024-06-22,Fast Food,279.09,Amex,Food,Quick Eats
-2024-08-11,Fast Food,28.76,Mastercard,Food,Quick Eats
-2024-03-06,Ride Sharing,100.16,Amex,Transport,Taxi/Ride
-2024-10-14,Gas Station,403.9,Amex,Auto,Fuel
-2024-07-03,Bookstore,13.44,Visa,Shopping,Books
-2024-09-10,Airline,113.43,Mastercard,Travel,Flights
-2024-12-15,Ride Sharing,396.72,Discover,Transport,Taxi/Ride
-2024-01-03,Clothing Store,205.51,Discover,Shopping,Clothing
-2024-06-25,Coffee Shop,44.65,Visa,Food,Coffee
-2024-07-24,Supermarket,79.77,Discover,Food,Groceries
-2024-07-05,Supermarket,477.32,Mastercard,Food,Groceries
-2024-08-19,Clothing Store,343.85,Amex,Shopping,Clothing
-2024-10-02,Utility Bill,187.64,Mastercard,Bills,Utilities
-2024-12-13,Supermarket,176.54,Visa,Food,Groceries
-2024-12-17,Ride Sharing,343.72,Amex,Transport,Taxi/Ride
-2024-10-10,Subscription Service,439.99,Visa,Services,Recurring
-2024-12-04,Ride Sharing,265.41,Discover,Transport,Taxi/Ride
-2024-07-28,Bookstore,59.86,Mastercard,Shopping,Books
-2024-05-19,Bookstore,471.35,Amex,Shopping,Books
-2024-05-26,Pharmacy,307.07,Visa,Health,Medicine
-2024-05-16,Gym Membership,72.76,Mastercard,Health,Fitness
-2024-02-29,Airline,297.92,Amex,Travel,Flights
-2024-03-06,Hotel,280.39,Visa,Travel,Lodging
-2024-09-16,Utility Bill,422.84,Amex,Bills,Utilities
-2024-12-19,Coffee Shop,23.74,Visa,Food,Coffee
-2024-01-27,Online Purchase,136.38,Visa,Shopping,E-commerce
-2024-08-29,Online Purchase,317.78,Amex,Shopping,E-commerce
-2024-05-04,Airline,428.15,Amex,Travel,Flights
-2024-10-23,Hotel,61.95,Visa,Travel,Lodging
-2024-03-31,Subscription Service,242.58,Amex,Services,Recurring
-2024-05-22,Restaurant,45.67,Discover,Food,Dining
-2024-12-03,Online Purchase,363.53,Amex,Shopping,E-commerce
-2024-02-22,Pharmacy,130.25,Amex,Health,Medicine
-2024-02-04,Grocery Store,229.25,Mastercard,Food,Groceries
-2024-04-14,Utility Bill,249.67,Visa,Bills,Utilities
-2024-09-14,Movie Theater,283.98,Mastercard,Entertainment,Movies
-2024-03-08,Airline,79.18,Visa,Travel,Flights
-2024-02-07,Online Purchase,431.66,Amex,Shopping,E-commerce
-2024-11-08,Grocery Store,376.96,Mastercard,Food,Groceries
-2024-03-20,Gas Station,136.56,Amex,Auto,Fuel
-2024-11-09,Utility Bill,398.22,Visa,Bills,Utilities
-2024-09-03,Streaming Service,447.05,Mastercard,Entertainment,Streaming
-2024-07-18,Supermarket,267.98,Discover,Food,Groceries
-2024-01-17,Hotel,493.29,Visa,Travel,Lodging
-2024-10-30,Bookstore,400.86,Mastercard,Shopping,Books
-2024-01-02,Pharmacy,496.58,Visa,Health,Medicine
-2024-03-05,Bookstore,458.05,Visa,Shopping,Books
-2024-12-04,Gym Membership,263.59,Mastercard,Health,Fitness
-2024-12-06,Ride Sharing,393.14,Visa,Transport,Taxi/Ride
-2024-06-03,Gas Station,316.75,Mastercard,Auto,Fuel
-2024-01-20,Bookstore,215.87,Discover,Shopping,Books
-2024-10-09,Online Purchase,246.0,Amex,Shopping,E-commerce
-2024-03-30,Ride Sharing,104.83,Visa,Transport,Taxi/Ride
-2024-03-28,Streaming Service,279.2,Amex,Entertainment,Streaming
-2024-07-10,Gym Membership,50.12,Mastercard,Health,Fitness
-2024-09-04,Utility Bill,177.24,Discover,Bills,Utilities
-2024-07-16,Parking,310.48,Amex,Transport,Parking
-2024-08-17,Ride Sharing,389.49,Discover,Transport,Taxi/Ride
-2024-12-08,Fast Food,241.21,Mastercard,Food,Quick Eats
-2024-09-20,Bookstore,240.85,Mastercard,Shopping,Books
-2024-08-10,Restaurant,117.52,Visa,Food,Dining
-2024-11-17,Airline,399.4,Visa,Travel,Flights
-2024-09-26,Airline,191.37,Discover,Travel,Flights
-2024-10-16,Pharmacy,279.11,Amex,Health,Medicine
-2024-08-02,Streaming Service,478.27,Discover,Entertainment,Streaming
-2024-02-06,Subscription Service,329.48,Amex,Services,Recurring
-2024-06-13,Grocery Store,154.7,Amex,Food,Groceries
-2024-10-05,Airline,337.36,Visa,Travel,Flights
-2024-01-02,Fast Food,253.11,Mastercard,Food,Quick Eats
-2024-01-16,Subscription Service,360.26,Discover,Services,Recurring
-2024-07-16,Grocery Store,76.58,Amex,Food,Groceries
-2024-09-14,Subscription Service,262.18,Visa,Services,Recurring
-2024-01-07,Supermarket,271.12,Discover,Food,Groceries
-2024-05-29,Coffee Shop,184.06,Visa,Food,Coffee
-2024-12-10,Bookstore,365.58,Visa,Shopping,Books
-2024-03-26,Utility Bill,15.38,Discover,Bills,Utilities
-2024-11-07,Electronics Store,27.18,Mastercard,Shopping,Electronics
-2024-03-09,Utility Bill,100.89,Visa,Bills,Utilities
-2024-10-10,Online Purchase,228.19,Discover,Shopping,E-commerce
-2024-05-16,Parking,17.65,Visa,Transport,Parking
-2024-11-17,Airline,51.78,Discover,Travel,Flights
-2024-04-28,Gas Station,277.13,Amex,Auto,Fuel
-2024-03-14,Coffee Shop,312.91,Amex,Food,Coffee
-2024-04-13,Streaming Service,355.32,Discover,Entertainment,Streaming
-2024-11-06,Restaurant,315.17,Discover,Food,Dining
-2024-08-21,Electronics Store,281.51,Mastercard,Shopping,Electronics
-2024-04-08,Electronics Store,297.59,Amex,Shopping,Electronics
-2024-11-27,Bookstore,64.66,Visa,Shopping,Books
-2024-04-16,Clothing Store,145.85,Amex,Shopping,Clothing
-2024-07-03,Electronics Store,118.74,Visa,Shopping,Electronics
-2024-12-24,Fast Food,363.43,Discover,Food,Quick Eats
-2024-04-25,Coffee Shop,290.56,Discover,Food,Coffee
-2024-07-14,Electronics Store,389.99,Discover,Shopping,Electronics
-2024-11-26,Grocery Store,302.09,Mastercard,Food,Groceries
-2024-01-07,Gym Membership,218.2,Mastercard,Health,Fitness
-2024-03-09,Airline,451.6,Amex,Travel,Flights
-2024-01-13,Grocery Store,237.94,Amex,Food,Groceries
-2024-10-14,Online Purchase,162.52,Visa,Shopping,E-commerce
-2024-02-18,Grocery Store,122.31,Discover,Food,Groceries
-2024-01-08,Airline,343.0,Amex,Travel,Flights
-2024-11-12,Fast Food,305.09,Discover,Food,Quick Eats
-2024-09-28,Utility Bill,282.01,Amex,Bills,Utilities
-2024-01-22,Coffee Shop,480.29,Mastercard,Food,Coffee
-2024-03-20,Restaurant,265.03,Visa,Food,Dining
-2024-04-09,Coffee Shop,77.38,Mastercard,Food,Coffee
-2024-01-14,Fast Food,138.38,Visa,Food,Quick Eats
-2024-11-11,Movie Theater,59.19,Visa,Entertainment,Movies
-2024-02-17,Gym Membership,13.81,Mastercard,Health,Fitness
-2024-05-13,Clothing Store,76.74,Amex,Shopping,Clothing
-2024-01-16,Restaurant,460.02,Discover,Food,Dining
-2024-04-21,Pharmacy,38.51,Visa,Health,Medicine
-2024-11-25,Pharmacy,22.74,Mastercard,Health,Medicine
-2024-11-27,Pharmacy,225.52,Visa,Health,Medicine
-2024-09-04,Pharmacy,450.9,Amex,Health,Medicine
-2024-10-17,Grocery Store,85.53,Discover,Food,Groceries
-2024-03-18,Parking,473.53,Mastercard,Transport,Parking
-2024-04-13,Ride Sharing,202.6,Discover,Transport,Taxi/Ride
-2024-02-04,Grocery Store,125.33,Visa,Food,Groceries
-2024-07-07,Airline,171.39,Discover,Travel,Flights
-2024-07-13,Movie Theater,225.21,Mastercard,Entertainment,Movies
-2024-09-10,Coffee Shop,241.32,Mastercard,Food,Coffee
-2024-04-12,Pharmacy,117.62,Mastercard,Health,Medicine
-2024-09-12,Utility Bill,328.68,Discover,Bills,Utilities
-2024-01-04,Gas Station,493.71,Amex,Auto,Fuel
-2024-02-13,Coffee Shop,127.29,Visa,Food,Coffee
-2024-03-03,Hotel,130.35,Amex,Travel,Lodging
-2024-03-19,Restaurant,369.5,Mastercard,Food,Dining
-2024-05-19,Airline,47.58,Visa,Travel,Flights
-2024-02-27,Airline,210.5,Mastercard,Travel,Flights
-2024-05-19,Clothing Store,309.92,Discover,Shopping,Clothing
-2024-07-23,Restaurant,120.39,Amex,Food,Dining
-2024-07-07,Restaurant,246.99,Mastercard,Food,Dining
-2024-02-16,Grocery Store,487.53,Mastercard,Food,Groceries
-2024-05-13,Electronics Store,232.1,Amex,Shopping,Electronics
-2024-11-28,Gas Station,167.49,Discover,Auto,Fuel
-2024-07-27,Subscription Service,308.59,Discover,Services,Recurring
-2024-05-22,Movie Theater,397.13,Visa,Entertainment,Movies
-2024-12-09,Parking,359.34,Visa,Transport,Parking
-2024-10-29,Streaming Service,242.33,Visa,Entertainment,Streaming
-2024-02-25,Hotel,494.18,Visa,Travel,Lodging
-2024-07-13,Online Purchase,299.25,Amex,Shopping,E-commerce
-2024-07-03,Gas Station,106.93,Visa,Auto,Fuel
-2024-10-11,Gym Membership,246.26,Mastercard,Health,Fitness
-2024-08-23,Airline,159.49,Mastercard,Travel,Flights
-2024-09-11,Streaming Service,92.77,Discover,Entertainment,Streaming
-2024-06-28,Movie Theater,229.64,Discover,Entertainment,Movies
-2024-12-23,Fast Food,372.6,Discover,Food,Quick Eats
-2024-03-03,Pharmacy,77.48,Visa,Health,Medicine
-2024-08-17,Airline,388.28,Visa,Travel,Flights
-2024-11-06,Subscription Service,128.37,Visa,Services,Recurring
-2024-09-13,Ride Sharing,400.77,Amex,Transport,Taxi/Ride
-2024-02-22,Online Purchase,376.99,Visa,Shopping,E-commerce
-2024-03-23,Pharmacy,479.31,Visa,Health,Medicine
-2024-05-04,Supermarket,423.04,Visa,Food,Groceries
-2024-04-01,Supermarket,338.59,Visa,Food,Groceries
-2024-01-19,Gas Station,166.57,Discover,Auto,Fuel
-2024-10-03,Supermarket,448.27,Visa,Food,Groceries
-2024-08-08,Restaurant,363.44,Visa,Food,Dining
-2024-10-31,Supermarket,280.32,Visa,Food,Groceries
-2024-03-09,Ride Sharing,215.04,Discover,Transport,Taxi/Ride
-2024-06-14,Gym Membership,24.55,Amex,Health,Fitness
-2024-03-24,Grocery Store,128.68,Mastercard,Food,Groceries
-2024-07-23,Parking,413.38,Mastercard,Transport,Parking
-2024-04-29,Grocery Store,195.32,Visa,Food,Groceries
-2024-11-13,Electronics Store,458.24,Mastercard,Shopping,Electronics
-2024-02-01,Ride Sharing,394.31,Mastercard,Transport,Taxi/Ride
-2024-10-03,Restaurant,134.33,Mastercard,Food,Dining
-2024-01-03,Electronics Store,484.52,Mastercard,Shopping,Electronics
-2024-10-25,Bookstore,395.44,Mastercard,Shopping,Books
-2024-04-25,Ride Sharing,162.99,Amex,Transport,Taxi/Ride
-2024-06-07,Electronics Store,58.88,Mastercard,Shopping,Electronics
-2024-05-15,Parking,278.77,Discover,Transport,Parking
-2024-08-01,Restaurant,262.24,Amex,Food,Dining
-2024-10-06,Hotel,450.36,Discover,Travel,Lodging
-2024-12-17,Clothing Store,441.47,Amex,Shopping,Clothing
-2024-12-20,Fast Food,389.6,Visa,Food,Quick Eats
-2024-07-08,Gym Membership,169.74,Amex,Health,Fitness
-2024-04-09,Subscription Service,91.06,Discover,Services,Recurring
-2024-05-18,Subscription Service,326.77,Mastercard,Services,Recurring
-2024-05-29,Utility Bill,116.84,Discover,Bills,Utilities
-2024-11-11,Grocery Store,79.45,Visa,Food,Groceries
-2024-02-01,Streaming Service,391.76,Visa,Entertainment,Streaming
-2024-07-21,Supermarket,124.92,Mastercard,Food,Groceries
-2024-11-16,Coffee Shop,114.93,Visa,Food,Coffee
-2024-07-12,Airline,184.12,Visa,Travel,Flights
-2024-11-27,Parking,210.92,Amex,Transport,Parking
-2024-04-20,Fast Food,131.95,Visa,Food,Quick Eats
-2024-08-15,Gas Station,172.59,Visa,Auto,Fuel
-2024-01-23,Hotel,251.2,Mastercard,Travel,Lodging
-2024-10-06,Bookstore,424.04,Visa,Shopping,Books
-2024-07-24,Electronics Store,451.46,Amex,Shopping,Electronics
-2024-05-22,Hotel,371.44,Discover,Travel,Lodging
-2024-01-09,Streaming Service,363.12,Amex,Entertainment,Streaming
-2024-03-23,Supermarket,325.09,Mastercard,Food,Groceries
-2024-07-21,Restaurant,172.94,Discover,Food,Dining
-2024-03-12,Grocery Store,458.17,Visa,Food,Groceries
-2024-11-24,Movie Theater,77.37,Visa,Entertainment,Movies
-2024-08-13,Restaurant,207.56,Amex,Food,Dining
-2024-07-20,Clothing Store,277.47,Mastercard,Shopping,Clothing
-2024-04-27,Clothing Store,334.53,Discover,Shopping,Clothing
-2024-09-24,Parking,417.79,Discover,Transport,Parking
-2024-08-16,Subscription Service,151.33,Amex,Services,Recurring
-2024-10-31,Bookstore,444.15,Discover,Shopping,Books
-2024-03-15,Hotel,76.72,Amex,Travel,Lodging
-2024-11-26,Gym Membership,191.42,Discover,Health,Fitness
-2024-08-25,Pharmacy,12.24,Mastercard,Health,Medicine
-2024-06-28,Gas Station,105.6,Visa,Auto,Fuel
-2024-07-21,Gym Membership,41.31,Visa,Health,Fitness
-2024-03-12,Movie Theater,438.26,Visa,Entertainment,Movies
-2024-10-04,Gym Membership,343.27,Mastercard,Health,Fitness
-2024-10-04,Gas Station,142.81,Visa,Auto,Fuel
-2024-06-25,Coffee Shop,314.84,Amex,Food,Coffee
-2024-06-20,Streaming Service,418.69,Amex,Entertainment,Streaming
-2024-07-17,Utility Bill,379.24,Mastercard,Bills,Utilities
-2024-04-22,Online Purchase,437.5,Visa,Shopping,E-commerce
-2024-03-23,Streaming Service,24.8,Discover,Entertainment,Streaming
-2024-07-14,Gym Membership,378.09,Visa,Health,Fitness
-2024-05-23,Hotel,245.89,Amex,Travel,Lodging
-2024-02-21,Hotel,260.61,Discover,Travel,Lodging
-2024-06-16,Parking,248.84,Mastercard,Transport,Parking
-2024-07-31,Gas Station,80.72,Amex,Auto,Fuel
-2024-04-29,Streaming Service,394.41,Mastercard,Entertainment,Streaming
-2024-08-25,Ride Sharing,247.8,Amex,Transport,Taxi/Ride
-2024-01-19,Parking,265.22,Discover,Transport,Parking
-2024-04-01,Electronics Store,471.76,Amex,Shopping,Electronics
-2024-03-14,Gym Membership,265.26,Mastercard,Health,Fitness
-2024-11-15,Parking,108.89,Discover,Transport,Parking
-2024-11-26,Parking,483.87,Discover,Transport,Parking
-2024-01-27,Grocery Store,396.09,Amex,Food,Groceries
-2024-12-03,Subscription Service,249.86,Amex,Services,Recurring
-2024-05-09,Clothing Store,355.69,Mastercard,Shopping,Clothing
-2024-10-31,Supermarket,380.21,Mastercard,Food,Groceries
-2024-08-06,Restaurant,161.39,Mastercard,Food,Dining
-2024-11-20,Online Purchase,110.7,Visa,Shopping,E-commerce
-2024-10-22,Parking,481.44,Amex,Transport,Parking
-2024-01-02,Utility Bill,461.66,Mastercard,Bills,Utilities
-2024-09-14,Coffee Shop,93.64,Mastercard,Food,Coffee
+2024-11-23,SuperFoods,55.75,Mastercard,Food,Groceries
+2024-03-12,Door2Dish,40.34,Visa,Food,Delivery
+2024-01-16,Bistro 21,47.85,Visa,Food,Dining
+2024-10-14,Arena Tickets,74.6,Amex,Entertainment,Events
+2024-01-04,GameHub,36.96,Mastercard,Entertainment,Games
+2024-06-21,FreshMart,32.57,Amex,Food,Groceries
+2024-11-05,ElectroMart,197.28,Visa,Merchandise,Electronics
+2024-07-12,MealDash,51.81,Amex,Food,Delivery
+2024-10-22,Silver Screen Cinema,29.84,Amex,Entertainment,Movies
+2024-02-10,Downtown Movies,18.34,Amex,Entertainment,Movies
+2024-03-24,Nest & Nook,170.84,Visa,Merchandise,Home Goods
+2024-11-07,Festival Pass,80.08,Discover,Entertainment,Events
+2024-07-13,Glow & Co.,83.73,Visa,Merchandise,Personal Care
+2024-04-27,Bean & Leaf,6.21,Mastercard,Food,Coffee
+2024-10-17,Wardrobe Co.,107.36,Discover,Merchandise,Clothing
+2024-03-14,Style Street,152.82,Amex,Merchandise,Clothing
+2024-10-26,City Utilities,755.89,Mastercard,Travel & Housing,Rent/Utilities
+2024-09-17,AeroAirlines,699.99,Mastercard,Travel & Housing,Flights
+2024-11-17,JoyStick Arena,12.31,Discover,Entertainment,Games
+2024-11-01,City Utilities,1943.6,Visa,Travel & Housing,Rent/Utilities
+2024-12-14,MealDash,48.89,Amex,Food,Delivery
+2024-02-27,PageTurner Books,39.03,Amex,Merchandise,Books
+2024-09-13,City Concerts,220.87,Amex,Entertainment,Events
+2024-11-23,BingeBox,20.96,Visa,Entertainment,Streaming
+2024-11-02,PageTurner Books,13.39,Amex,Merchandise,Books
+2024-06-06,Silver Screen Cinema,36.34,Visa,Entertainment,Movies
+2024-02-13,JetTrail,631.4,Mastercard,Travel & Housing,Flights
+2024-12-03,RentPay,566.86,Discover,Travel & Housing,Rent/Utilities
+2024-04-18,Melody Mart,99.56,Amex,Entertainment,Music
+2024-08-12,AeroAirlines,241.78,Amex,Travel & Housing,Flights
+2024-01-11,City Concerts,26.62,Visa,Entertainment,Events
+2024-04-27,FreshMart,29.21,Mastercard,Food,Groceries
+2024-05-22,Harbor Inn,111.6,Discover,Travel & Housing,Lodging
+2024-05-04,Metro Transit,3.7,Discover,Travel & Housing,Public Transit
+2024-06-30,City Line,17.55,Visa,Travel & Housing,Public Transit
+2024-12-10,FreshMart,114.67,Visa,Food,Groceries
+2024-05-07,CinemaCloud,15.63,Discover,Entertainment,Streaming
+2024-04-03,PageTurner Books,70.59,Visa,Merchandise,Books
+2024-08-14,SuperFoods,149.91,Visa,Food,Groceries
+2024-02-17,BingeBox,16.26,Mastercard,Entertainment,Streaming
+2024-07-24,Urban Diner,15.14,Discover,Food,Dining
+2024-05-15,GoCab,44.22,Discover,Travel & Housing,Rideshare
+2024-03-20,TuneTown,97.18,Visa,Entertainment,Music
+2024-06-09,SuperFoods,81.98,Mastercard,Food,Groceries
+2024-01-30,Bistro 21,53.68,Mastercard,Food,Dining
+2024-07-25,Door2Dish,39.79,Visa,Food,Delivery
+2024-11-13,Taco Corner,17.51,Amex,Food,Fast Food
+2024-05-13,TuneTown,33.91,Mastercard,Entertainment,Music
+2024-12-09,Readers' Roost,74.68,Visa,Merchandise,Books
+2024-01-05,Power & Water Co.,1992.39,Visa,Travel & Housing,Rent/Utilities
+2024-10-02,Arena Tickets,54.8,Amex,Entertainment,Events
+2024-02-05,Melody Mart,24.2,Amex,Entertainment,Music
+2024-11-09,MealDash,56.72,Visa,Food,Delivery
+2024-03-09,TechPoint,303.41,Mastercard,Merchandise,Electronics
+2024-05-19,Glow & Co.,87.53,Mastercard,Merchandise,Personal Care
+2024-12-17,BeautyBay,33.88,Visa,Merchandise,Personal Care
+2024-02-17,RideFly,8.18,Mastercard,Travel & Housing,Rideshare
+2024-11-22,Wardrobe Co.,96.74,Discover,Merchandise,Clothing
+2024-10-14,Whole Market,142.86,Mastercard,Food,Groceries
+2024-10-06,Café Aurora,9.63,Discover,Food,Coffee
+2024-03-06,Bean & Leaf,13.79,Visa,Food,Coffee
+2024-07-02,CinemaCloud,9.75,Discover,Entertainment,Streaming
+2024-11-13,Streamify,24.6,Mastercard,Entertainment,Streaming
+2024-07-30,Garden Grill,75.09,Discover,Food,Dining
+2024-12-08,TuneTown,80.86,Visa,Entertainment,Music
+2024-07-14,QuickBite,10.59,Discover,Food,Fast Food
+2024-06-28,Style Street,19.38,Mastercard,Merchandise,Clothing
+2024-07-23,Nest & Nook,242.05,Amex,Merchandise,Home Goods
+2024-06-28,City Utilities,1881.51,Visa,Travel & Housing,Rent/Utilities
+2024-05-13,Arena Tickets,33.61,Discover,Entertainment,Events
+2024-06-25,BookHaven,78.82,Visa,Merchandise,Books
+2024-07-16,TuneTown,73.79,Visa,Entertainment,Music
+2024-09-23,Melody Mart,16.3,Amex,Entertainment,Music
+2024-11-15,ElectroMart,362.52,Amex,Merchandise,Electronics
+2024-12-07,GoCab,44.25,Mastercard,Travel & Housing,Rideshare
+2024-04-08,Rapid Rail,15.47,Mastercard,Travel & Housing,Public Transit
+2024-11-11,BookHaven,67.53,Amex,Merchandise,Books
+2024-05-26,JoyStick Arena,74.77,Amex,Entertainment,Games
+2024-08-26,Rapid Rail,5.85,Discover,Travel & Housing,Public Transit
+2024-03-27,Café Aurora,10.97,Amex,Food,Coffee
+2024-02-17,TuneTown,82.59,Mastercard,Entertainment,Music
+2024-01-13,Urban Diner,54.73,Visa,Food,Dining
+2024-08-21,RentPay,1450.77,Discover,Travel & Housing,Rent/Utilities
+2024-09-10,Grand Stay Hotel,315.86,Visa,Travel & Housing,Lodging
+2024-02-24,Grand Stay Hotel,373.6,Discover,Travel & Housing,Lodging
+2024-01-26,Downtown Movies,14.0,Discover,Entertainment,Movies
+2024-12-07,BookHaven,66.13,Discover,Merchandise,Books
+2024-10-07,Harbor Inn,395.98,Discover,Travel & Housing,Lodging
+2024-05-12,SoundWave,53.61,Mastercard,Entertainment,Music
+2024-05-20,JetTrail,285.72,Amex,Travel & Housing,Flights
+2024-06-20,Glow & Co.,20.91,Mastercard,Merchandise,Personal Care
+2024-07-15,Streamify,15.05,Amex,Entertainment,Streaming
+2024-10-04,Metro Transit,5.72,Discover,Travel & Housing,Public Transit
+2024-07-18,MealDash,34.9,Amex,Food,Delivery
+2024-06-01,Rapid Rail,15.46,Mastercard,Travel & Housing,Public Transit
+2024-09-06,Melody Mart,53.71,Discover,Entertainment,Music
+2024-06-21,City Suites,418.62,Visa,Travel & Housing,Lodging
+2024-07-20,SuperFoods,75.72,Discover,Food,Groceries
+2024-04-03,Bean & Leaf,6.93,Discover,Food,Coffee
+2024-06-16,Readers' Roost,61.4,Discover,Merchandise,Books
+2024-05-09,QuickBite,20.48,Visa,Food,Fast Food
+2024-06-28,ReelHouse,11.21,Visa,Entertainment,Movies
+2024-05-06,ReelHouse,14.57,Mastercard,Entertainment,Movies
+2024-08-30,Door2Dish,34.32,Amex,Food,Delivery
+2024-07-07,Festival Pass,241.84,Visa,Entertainment,Events
+2024-03-24,ElectroMart,34.63,Amex,Merchandise,Electronics
+2024-10-21,Rapid Rail,5.57,Mastercard,Travel & Housing,Public Transit
+2024-02-22,Glow & Co.,96.57,Visa,Merchandise,Personal Care
+2024-06-26,RideFly,34.31,Amex,Travel & Housing,Rideshare
+2024-01-07,Metro Transit,9.8,Amex,Travel & Housing,Public Transit
+2024-11-21,City Suites,128.69,Amex,Travel & Housing,Lodging
+2024-11-11,City Line,16.86,Amex,Travel & Housing,Public Transit
+2024-06-14,Downtown Movies,36.45,Mastercard,Entertainment,Movies
+2024-08-25,RideFly,33.7,Amex,Travel & Housing,Rideshare
+2024-04-03,City Suites,371.15,Amex,Travel & Housing,Lodging
+2024-05-23,Glow & Co.,64.41,Mastercard,Merchandise,Personal Care
+2024-02-13,GameHub,68.85,Mastercard,Entertainment,Games
+2024-12-19,City Line,16.27,Visa,Travel & Housing,Public Transit
+2024-05-30,JoyStick Arena,32.98,Amex,Entertainment,Games
+2024-08-30,BookHaven,46.28,Amex,Merchandise,Books
+2024-12-25,GoCab,21.07,Visa,Travel & Housing,Rideshare
+2024-04-08,ElectroMart,225.95,Mastercard,Merchandise,Electronics
+2024-04-08,GameHub,88.33,Amex,Entertainment,Games
+2024-02-21,TuneTown,42.48,Amex,Entertainment,Music
+2024-01-08,TuneTown,97.69,Amex,Entertainment,Music
+2024-12-23,PlayPort,105.36,Amex,Entertainment,Games
+2024-08-28,City Line,5.32,Visa,Travel & Housing,Public Transit
+2024-05-09,AeroAirlines,368.51,Visa,Travel & Housing,Flights
+2024-10-22,Bistro 21,67.72,Amex,Food,Dining
+2024-02-13,ReelHouse,32.93,Mastercard,Entertainment,Movies
+2024-09-24,City Line,7.35,Discover,Travel & Housing,Public Transit
+2024-06-05,QuickEats,16.76,Mastercard,Food,Delivery
+2024-11-16,SoundWave,17.31,Mastercard,Entertainment,Music
+2024-03-29,Bistro 21,41.55,Discover,Food,Dining
+2024-05-29,Urban Diner,60.95,Discover,Food,Dining
+2024-02-06,SoundWave,63.08,Mastercard,Entertainment,Music
+2024-08-05,Door2Dish,43.09,Amex,Food,Delivery
+2024-03-13,Whole Market,123.04,Amex,Food,Groceries
+2024-08-12,Taco Corner,12.47,Discover,Food,Fast Food
+2024-05-19,Metro Transit,12.76,Discover,Travel & Housing,Public Transit
+2024-06-14,TechPoint,110.85,Visa,Merchandise,Electronics
+2024-12-10,Glow & Co.,92.76,Mastercard,Merchandise,Personal Care
+2024-08-28,RideFly,59.84,Discover,Travel & Housing,Rideshare
+2024-11-21,SkyWings,330.53,Amex,Travel & Housing,Flights
+2024-06-13,Urban Diner,41.76,Discover,Food,Dining
+2024-05-27,RentPay,936.91,Amex,Travel & Housing,Rent/Utilities
+2024-05-09,Gizmo World,349.34,Visa,Merchandise,Electronics
+2024-12-02,Metro Transit,5.38,Amex,Travel & Housing,Public Transit
+2024-11-14,Metro Transit,5.66,Mastercard,Travel & Housing,Public Transit
+2024-05-27,Metro Transit,2.52,Mastercard,Travel & Housing,Public Transit
+2024-12-29,SoundWave,11.23,Discover,Entertainment,Music
+2024-02-17,Downtown Movies,38.41,Mastercard,Entertainment,Movies
+2024-09-12,Care Corner,36.44,Discover,Merchandise,Personal Care
+2024-08-29,JoyStick Arena,21.63,Mastercard,Entertainment,Games
+2024-11-02,Downtown Movies,33.18,Discover,Entertainment,Movies
+2024-06-23,Gizmo World,297.27,Discover,Merchandise,Electronics
+2024-03-17,City Utilities,722.99,Discover,Travel & Housing,Rent/Utilities
+2024-08-21,Wardrobe Co.,59.18,Discover,Merchandise,Clothing
+2024-04-29,SkyWings,616.19,Discover,Travel & Housing,Flights
+2024-07-16,PlayPort,19.52,Amex,Entertainment,Games
+2024-02-21,JetTrail,735.52,Visa,Travel & Housing,Flights
+2024-03-14,Grand Stay Hotel,243.1,Amex,Travel & Housing,Lodging
+2024-06-22,SkyWings,693.69,Discover,Travel & Housing,Flights
+2024-06-11,RentPay,1254.05,Mastercard,Travel & Housing,Rent/Utilities
+2024-11-19,Wardrobe Co.,31.72,Visa,Merchandise,Clothing
+2024-11-20,QuickBite,19.49,Visa,Food,Fast Food
+2024-01-24,Gizmo World,159.42,Discover,Merchandise,Electronics
+2024-03-15,Arena Tickets,152.33,Mastercard,Entertainment,Events
+2024-03-28,ReelHouse,36.13,Mastercard,Entertainment,Movies
+2024-09-11,BingeBox,18.84,Discover,Entertainment,Streaming
+2024-05-10,Burger Hub,19.2,Mastercard,Food,Fast Food
+2024-02-07,MoveNow,23.56,Discover,Travel & Housing,Rideshare
+2024-12-19,Readers' Roost,19.94,Discover,Merchandise,Books
+2024-09-04,Urban Diner,52.17,Amex,Food,Dining
+2024-12-24,ElectroMart,173.43,Visa,Merchandise,Electronics
+2024-10-16,QuickEats,35.84,Amex,Food,Delivery
+2024-04-27,Wardrobe Co.,50.17,Amex,Merchandise,Clothing
+2024-12-13,ReelHouse,29.39,Amex,Entertainment,Movies
+2024-08-13,MealDash,47.15,Visa,Food,Delivery
+2024-05-31,PageTurner Books,20.06,Amex,Merchandise,Books
+2024-09-28,Urban Threads,184.1,Discover,Merchandise,Clothing
+2024-05-31,Gizmo World,386.08,Mastercard,Merchandise,Electronics
+2024-04-25,City Utilities,226.09,Discover,Travel & Housing,Rent/Utilities
+2024-01-08,Glow & Co.,57.3,Amex,Merchandise,Personal Care
+2024-10-26,RideFly,43.09,Discover,Travel & Housing,Rideshare
+2024-01-13,Glow & Co.,79.48,Discover,Merchandise,Personal Care
+2024-12-24,PageTurner Books,15.48,Visa,Merchandise,Books
+2024-06-04,AeroAirlines,249.06,Mastercard,Travel & Housing,Flights
+2024-07-17,MoveNow,57.37,Discover,Travel & Housing,Rideshare
+2024-10-27,JoyStick Arena,16.39,Discover,Entertainment,Games
+2024-11-11,RideFly,43.89,Mastercard,Travel & Housing,Rideshare
+2024-08-15,City Suites,98.75,Amex,Travel & Housing,Lodging
+2024-10-05,Gizmo World,128.46,Visa,Merchandise,Electronics
+2024-08-20,Garden Grill,56.57,Visa,Food,Dining
+2024-01-26,Style Street,160.59,Mastercard,Merchandise,Clothing
+2024-02-05,City Concerts,207.94,Mastercard,Entertainment,Events
+2024-06-17,City Concerts,87.39,Mastercard,Entertainment,Events
+2024-03-07,Style Street,137.3,Visa,Merchandise,Clothing
+2024-03-08,Daily Brew,10.07,Visa,Food,Coffee
+2024-03-30,TechPoint,303.14,Visa,Merchandise,Electronics
+2024-02-02,City Line,11.24,Visa,Travel & Housing,Public Transit
+2024-08-19,City Concerts,188.63,Amex,Entertainment,Events
+2024-08-22,FreshMart,130.15,Discover,Food,Groceries
+2024-12-17,Taco Corner,23.37,Visa,Food,Fast Food
+2024-02-11,Glow & Co.,12.55,Amex,Merchandise,Personal Care
+2024-11-15,BookHaven,44.79,Discover,Merchandise,Books
+2024-09-15,JetTrail,162.38,Mastercard,Travel & Housing,Flights
+2024-08-08,City Suites,192.18,Discover,Travel & Housing,Lodging
+2024-07-23,SkyWings,387.27,Amex,Travel & Housing,Flights
+2024-07-10,PlayPort,15.49,Visa,Entertainment,Games
+2024-02-17,JetTrail,611.93,Mastercard,Travel & Housing,Flights
+2024-10-11,QuickEats,38.96,Visa,Food,Delivery
+2024-07-29,BookHaven,8.86,Amex,Merchandise,Books
+2024-11-03,Nest & Nook,148.7,Mastercard,Merchandise,Home Goods
+2024-03-20,Grand Stay Hotel,196.54,Amex,Travel & Housing,Lodging
+2024-02-28,Glow & Co.,97.83,Visa,Merchandise,Personal Care
+2024-11-07,TechPoint,127.48,Amex,Merchandise,Electronics
+2024-06-22,TechPoint,351.2,Discover,Merchandise,Electronics
+2024-02-05,Silver Screen Cinema,32.38,Mastercard,Entertainment,Movies
+2024-07-11,City Line,4.83,Amex,Travel & Housing,Public Transit
+2024-06-15,Whole Market,40.46,Visa,Food,Groceries
+2024-12-11,Bean & Leaf,10.94,Discover,Food,Coffee
+2024-11-06,City Line,5.88,Visa,Travel & Housing,Public Transit
+2024-06-25,SkyWings,568.32,Discover,Travel & Housing,Flights
+2024-09-26,TechPoint,173.22,Visa,Merchandise,Electronics
+2024-01-04,TuneTown,79.06,Amex,Entertainment,Music
+2024-05-28,TechPoint,211.52,Discover,Merchandise,Electronics
+2024-03-30,JoyStick Arena,85.92,Amex,Entertainment,Games
+2024-02-06,SkyWings,93.49,Visa,Travel & Housing,Flights
+2024-06-09,City Utilities,1433.52,Discover,Travel & Housing,Rent/Utilities
+2024-05-28,QuickBite,24.39,Mastercard,Food,Fast Food
+2024-11-12,RideFly,30.71,Visa,Travel & Housing,Rideshare
+2024-05-04,City Utilities,1071.73,Discover,Travel & Housing,Rent/Utilities
+2024-06-07,Urban Threads,159.14,Visa,Merchandise,Clothing
+2024-09-18,QuickEats,21.31,Amex,Food,Delivery
+2024-06-28,Streamify,10.49,Mastercard,Entertainment,Streaming
+2024-03-29,Silver Screen Cinema,38.54,Discover,Entertainment,Movies
+2024-08-25,Power & Water Co.,1288.83,Amex,Travel & Housing,Rent/Utilities
+2024-11-17,Urban Threads,27.63,Discover,Merchandise,Clothing
+2024-11-19,Living Loft,23.48,Visa,Merchandise,Home Goods
+2024-06-07,Metro Transit,3.02,Amex,Travel & Housing,Public Transit
+2024-02-09,QuickEats,36.34,Discover,Food,Delivery
+2024-10-24,Taco Corner,18.73,Amex,Food,Fast Food
+2024-11-05,RentPay,1917.56,Discover,Travel & Housing,Rent/Utilities
+2024-02-22,ElectroMart,267.3,Visa,Merchandise,Electronics
+2024-05-06,Rapid Rail,11.41,Mastercard,Travel & Housing,Public Transit
+2024-07-05,HomeWorks,108.1,Amex,Merchandise,Home Goods
+2024-12-13,Daily Brew,6.96,Discover,Food,Coffee
+2024-05-25,Glow & Co.,43.34,Mastercard,Merchandise,Personal Care
+2024-06-28,PageTurner Books,49.63,Visa,Merchandise,Books
+2024-06-07,RideFly,42.85,Visa,Travel & Housing,Rideshare
+2024-11-26,City Utilities,85.55,Amex,Travel & Housing,Rent/Utilities
+2024-04-02,Melody Mart,27.28,Mastercard,Entertainment,Music
+2024-03-20,Daily Brew,9.09,Visa,Food,Coffee
+2024-12-04,Glow & Co.,73.68,Mastercard,Merchandise,Personal Care
+2024-03-24,City Concerts,187.27,Visa,Entertainment,Events
+2024-07-29,Urban Threads,127.96,Discover,Merchandise,Clothing
+2024-04-29,Melody Mart,91.36,Mastercard,Entertainment,Music
+2024-07-07,City Line,16.01,Discover,Travel & Housing,Public Transit
+2024-03-23,City Concerts,221.43,Visa,Entertainment,Events
+2024-11-24,MoveNow,56.58,Visa,Travel & Housing,Rideshare
+2024-05-25,Urban Diner,44.21,Mastercard,Food,Dining
+2024-08-11,Urban Diner,72.5,Visa,Food,Dining
+2024-07-31,Taco Corner,13.73,Discover,Food,Fast Food
+2024-02-11,Style Street,73.96,Visa,Merchandise,Clothing
+2024-12-31,Style Street,22.09,Discover,Merchandise,Clothing
+2024-12-22,GameHub,75.77,Visa,Entertainment,Games
+2024-01-10,Style Street,116.53,Discover,Merchandise,Clothing
+2024-02-26,Urban Threads,37.54,Mastercard,Merchandise,Clothing
+2024-08-02,AeroAirlines,682.42,Discover,Travel & Housing,Flights
+2024-11-01,QuickEats,23.61,Mastercard,Food,Delivery
+2024-05-29,JetTrail,334.03,Discover,Travel & Housing,Flights
+2024-04-05,MealDash,15.25,Visa,Food,Delivery
+2024-07-18,JetTrail,358.55,Amex,Travel & Housing,Flights
+2024-05-09,Daily Brew,7.14,Visa,Food,Coffee
+2024-10-24,Style Street,80.18,Amex,Merchandise,Clothing
+2024-11-25,JoyStick Arena,60.03,Mastercard,Entertainment,Games
+2024-03-10,QuickBite,12.28,Visa,Food,Fast Food
+2024-04-12,Bean & Leaf,9.18,Discover,Food,Coffee
+2024-05-09,Urban Diner,38.2,Visa,Food,Dining
+2024-12-01,Nest & Nook,201.84,Discover,Merchandise,Home Goods
+2024-07-23,City Line,19.53,Discover,Travel & Housing,Public Transit
+2024-12-20,MoveNow,21.87,Visa,Travel & Housing,Rideshare
+2024-08-05,Taco Corner,24.91,Mastercard,Food,Fast Food
+2024-10-06,Nest & Nook,29.22,Amex,Merchandise,Home Goods
+2024-06-05,Power & Water Co.,880.93,Discover,Travel & Housing,Rent/Utilities
+2024-06-28,JetTrail,706.43,Amex,Travel & Housing,Flights
+2024-11-10,MoveNow,58.96,Visa,Travel & Housing,Rideshare
+2024-02-08,MoveNow,49.66,Mastercard,Travel & Housing,Rideshare
+2024-01-16,Festival Pass,200.8,Visa,Entertainment,Events
+2024-03-05,Garden Grill,38.81,Discover,Food,Dining
+2024-10-17,Door2Dish,44.59,Amex,Food,Delivery
+2024-07-09,JetTrail,179.14,Amex,Travel & Housing,Flights
+2024-07-22,Nest & Nook,240.52,Visa,Merchandise,Home Goods
+2024-04-05,City Utilities,1831.41,Visa,Travel & Housing,Rent/Utilities
+2024-05-14,PageTurner Books,79.73,Amex,Merchandise,Books
+2024-12-21,Grand Stay Hotel,112.93,Visa,Travel & Housing,Lodging
+2024-08-19,PlayPort,98.21,Amex,Entertainment,Games
+2024-12-07,ElectroMart,228.31,Amex,Merchandise,Electronics
+2024-03-21,SoundWave,30.18,Mastercard,Entertainment,Music
+2024-03-12,PlayPort,46.5,Amex,Entertainment,Games
+2024-08-27,City Concerts,39.79,Discover,Entertainment,Events
+2024-09-02,Rapid Rail,3.33,Amex,Travel & Housing,Public Transit
+2024-11-24,Burger Hub,19.24,Amex,Food,Fast Food
+2024-03-06,BingeBox,16.55,Visa,Entertainment,Streaming
+2024-03-04,TuneTown,24.58,Mastercard,Entertainment,Music
+2024-06-26,Gizmo World,98.61,Amex,Merchandise,Electronics
+2024-03-05,Care Corner,15.74,Mastercard,Merchandise,Personal Care
+2024-10-30,CinemaCloud,18.62,Amex,Entertainment,Streaming
+2024-10-15,Whole Market,25.91,Amex,Food,Groceries
+2024-11-29,Arena Tickets,164.07,Visa,Entertainment,Events
+2024-09-11,HomeWorks,68.77,Discover,Merchandise,Home Goods
+2024-06-01,JetTrail,123.14,Discover,Travel & Housing,Flights
+2024-07-31,Metro Transit,8.12,Mastercard,Travel & Housing,Public Transit
+2024-06-09,HomeWorks,41.38,Amex,Merchandise,Home Goods
+2024-09-20,Daily Brew,8.6,Amex,Food,Coffee
+2024-08-18,Streamify,8.86,Discover,Entertainment,Streaming
+2024-11-11,Grand Stay Hotel,377.26,Amex,Travel & Housing,Lodging
+2024-04-07,JoyStick Arena,58.68,Amex,Entertainment,Games
+2024-09-11,FreshMart,85.71,Mastercard,Food,Groceries
+2024-04-20,TechPoint,130.51,Discover,Merchandise,Electronics
+2024-05-26,FreshMart,37.41,Amex,Food,Groceries
+2024-07-06,RideFly,28.83,Mastercard,Travel & Housing,Rideshare
+2024-07-04,Gizmo World,214.1,Amex,Merchandise,Electronics
+2024-11-15,Bistro 21,40.6,Amex,Food,Dining
+2024-10-12,Style Street,126.46,Discover,Merchandise,Clothing
+2024-09-13,Whole Market,37.81,Amex,Food,Groceries
+2024-08-30,Harbor Inn,408.32,Mastercard,Travel & Housing,Lodging
+2024-06-16,Urban Threads,198.26,Amex,Merchandise,Clothing
+2024-10-30,Care Corner,66.22,Amex,Merchandise,Personal Care
+2024-08-31,Bean & Leaf,11.09,Discover,Food,Coffee
+2024-10-25,ElectroMart,202.97,Mastercard,Merchandise,Electronics
+2024-01-27,Harbor Inn,305.32,Discover,Travel & Housing,Lodging
+2024-03-16,ReelHouse,38.45,Visa,Entertainment,Movies
+2024-04-07,Burger Hub,14.54,Discover,Food,Fast Food
+2024-12-19,JoyStick Arena,94.12,Discover,Entertainment,Games
+2024-02-01,City Concerts,151.2,Discover,Entertainment,Events
+2024-09-26,RideFly,31.9,Amex,Travel & Housing,Rideshare
+2024-10-06,Living Loft,126.2,Mastercard,Merchandise,Home Goods
+2024-05-22,Urban Threads,157.67,Mastercard,Merchandise,Clothing
+2024-12-19,GoCab,26.14,Amex,Travel & Housing,Rideshare
+2024-05-27,QuickEats,38.07,Discover,Food,Delivery
+2024-06-25,TuneTown,35.89,Visa,Entertainment,Music
+2024-06-26,MoveNow,32.91,Mastercard,Travel & Housing,Rideshare
+2024-10-02,Care Corner,36.24,Visa,Merchandise,Personal Care
+2024-11-11,Streamify,19.39,Mastercard,Entertainment,Streaming
+2024-11-22,Silver Screen Cinema,22.4,Discover,Entertainment,Movies
+2024-02-21,ReelHouse,39.34,Mastercard,Entertainment,Movies
+2024-07-27,Rapid Rail,5.59,Amex,Travel & Housing,Public Transit
+2024-06-13,TechPoint,269.61,Mastercard,Merchandise,Electronics
+2024-09-30,Urban Diner,72.35,Mastercard,Food,Dining
+2024-01-19,Metro Transit,18.86,Amex,Travel & Housing,Public Transit
+2024-01-20,Café Aurora,10.23,Amex,Food,Coffee
+2024-05-25,Power & Water Co.,1013.13,Mastercard,Travel & Housing,Rent/Utilities
+2024-09-15,RideFly,50.06,Amex,Travel & Housing,Rideshare
+2024-03-24,MoveNow,17.68,Amex,Travel & Housing,Rideshare
+2024-05-31,CinemaCloud,22.55,Discover,Entertainment,Streaming
+2024-08-06,Gizmo World,275.97,Mastercard,Merchandise,Electronics
+2024-03-12,RideFly,8.36,Discover,Travel & Housing,Rideshare
+2024-04-30,GoCab,23.7,Visa,Travel & Housing,Rideshare
+2024-05-13,Style Street,138.54,Discover,Merchandise,Clothing
+2024-06-06,JoyStick Arena,62.79,Amex,Entertainment,Games
+2024-12-19,Bean & Leaf,10.38,Mastercard,Food,Coffee
+2024-03-09,City Suites,351.62,Amex,Travel & Housing,Lodging
+2024-07-31,Power & Water Co.,1659.93,Mastercard,Travel & Housing,Rent/Utilities
+2024-12-14,MealDash,37.35,Amex,Food,Delivery
+2024-02-09,SuperFoods,137.38,Mastercard,Food,Groceries
+2024-10-20,BingeBox,22.53,Discover,Entertainment,Streaming
+2024-02-29,Arena Tickets,45.46,Discover,Entertainment,Events
+2024-01-29,Harbor Inn,222.02,Visa,Travel & Housing,Lodging
+2024-10-13,MoveNow,9.13,Amex,Travel & Housing,Rideshare
+2024-01-02,City Concerts,35.19,Amex,Entertainment,Events
+2024-12-24,Door2Dish,56.86,Visa,Food,Delivery
+2024-08-29,Bean & Leaf,5.16,Mastercard,Food,Coffee
+2024-11-24,GoCab,31.32,Discover,Travel & Housing,Rideshare
+2024-07-11,Door2Dish,43.37,Amex,Food,Delivery
+2024-03-01,Arena Tickets,143.99,Mastercard,Entertainment,Events
+2024-01-02,Bean & Leaf,11.08,Discover,Food,Coffee
+2024-09-29,Grand Stay Hotel,239.64,Mastercard,Travel & Housing,Lodging
+2024-05-21,Silver Screen Cinema,34.28,Discover,Entertainment,Movies
+2024-11-10,Bistro 21,19.37,Visa,Food,Dining
+2024-08-16,Garden Grill,17.88,Discover,Food,Dining
+2024-04-29,Silver Screen Cinema,25.12,Amex,Entertainment,Movies
+2024-04-29,Care Corner,93.84,Amex,Merchandise,Personal Care
+2024-05-01,Wardrobe Co.,111.43,Discover,Merchandise,Clothing
+2024-06-02,ElectroMart,380.7,Mastercard,Merchandise,Electronics
+2024-11-16,City Utilities,141.42,Amex,Travel & Housing,Rent/Utilities
+2024-11-25,City Utilities,1407.8,Discover,Travel & Housing,Rent/Utilities
+2024-03-17,PageTurner Books,61.58,Discover,Merchandise,Books
+2024-05-03,SoundWave,22.99,Discover,Entertainment,Music
+2024-01-30,Rapid Rail,11.54,Discover,Travel & Housing,Public Transit
+2024-05-04,Urban Threads,134.64,Discover,Merchandise,Clothing
+2024-07-08,QuickEats,51.81,Visa,Food,Delivery
+2024-05-17,Power & Water Co.,127.12,Visa,Travel & Housing,Rent/Utilities
+2024-04-06,PlayPort,104.99,Amex,Entertainment,Games
+2024-06-04,Bistro 21,77.54,Visa,Food,Dining
+2024-09-02,Festival Pass,71.02,Mastercard,Entertainment,Events
+2024-10-09,HomeWorks,121.9,Amex,Merchandise,Home Goods
+2024-06-06,Living Loft,221.87,Discover,Merchandise,Home Goods
+2024-02-20,RideFly,27.28,Discover,Travel & Housing,Rideshare
+2024-01-24,Streamify,12.43,Discover,Entertainment,Streaming
+2024-05-31,BingeBox,11.91,Mastercard,Entertainment,Streaming
+2024-09-12,HomeWorks,241.96,Discover,Merchandise,Home Goods
+2024-08-23,TuneTown,22.6,Discover,Entertainment,Music
+2024-04-04,Door2Dish,52.28,Visa,Food,Delivery
+2024-12-08,FreshMart,37.87,Mastercard,Food,Groceries
+2024-02-04,Silver Screen Cinema,25.17,Amex,Entertainment,Movies
+2024-01-31,Metro Transit,2.12,Discover,Travel & Housing,Public Transit
+2024-01-07,QuickEats,25.19,Amex,Food,Delivery
+2024-01-09,Grand Stay Hotel,418.04,Mastercard,Travel & Housing,Lodging
+2024-05-03,Festival Pass,81.79,Amex,Entertainment,Events
+2024-05-16,SkyWings,770.69,Discover,Travel & Housing,Flights
+2024-10-16,BingeBox,19.63,Visa,Entertainment,Streaming
+2024-11-30,FreshMart,69.3,Discover,Food,Groceries
+2024-01-29,Bistro 21,47.49,Discover,Food,Dining
+2024-11-26,Glow & Co.,107.9,Visa,Merchandise,Personal Care
+2024-04-27,Arena Tickets,86.0,Visa,Entertainment,Events
+2024-12-16,Care Corner,80.68,Mastercard,Merchandise,Personal Care
+2024-06-10,Garden Grill,24.37,Discover,Food,Dining
+2024-02-09,Wardrobe Co.,59.49,Discover,Merchandise,Clothing
+2024-12-12,BookHaven,15.5,Visa,Merchandise,Books
+2024-09-13,TechPoint,188.91,Visa,Merchandise,Electronics
+2024-06-23,RideFly,40.97,Discover,Travel & Housing,Rideshare
+2024-09-08,SoundWave,94.7,Discover,Entertainment,Music
+2024-04-05,JetTrail,292.67,Mastercard,Travel & Housing,Flights
+2024-12-31,FreshMart,40.05,Mastercard,Food,Groceries
+2024-07-18,Nest & Nook,31.96,Amex,Merchandise,Home Goods
+2024-08-15,Nest & Nook,41.8,Mastercard,Merchandise,Home Goods
+2024-08-08,Power & Water Co.,1049.26,Visa,Travel & Housing,Rent/Utilities
+2024-01-14,Café Aurora,4.12,Amex,Food,Coffee
+2024-07-16,Bean & Leaf,7.65,Visa,Food,Coffee
+2024-10-13,Festival Pass,63.16,Discover,Entertainment,Events
+2024-03-27,Melody Mart,34.16,Mastercard,Entertainment,Music
+2024-02-02,GameHub,53.43,Discover,Entertainment,Games
+2024-02-09,Nest & Nook,183.02,Discover,Merchandise,Home Goods
+2024-10-31,PlayPort,20.58,Visa,Entertainment,Games
+2024-07-21,BeautyBay,97.47,Amex,Merchandise,Personal Care
+2024-08-13,BookHaven,78.07,Mastercard,Merchandise,Books
+2024-06-02,Care Corner,28.1,Amex,Merchandise,Personal Care
+2024-03-31,GoCab,46.21,Discover,Travel & Housing,Rideshare
+2024-10-21,Melody Mart,35.23,Discover,Entertainment,Music
+2024-07-05,Door2Dish,40.43,Mastercard,Food,Delivery
+2024-12-15,Taco Corner,10.77,Amex,Food,Fast Food
+2024-12-20,Taco Corner,15.99,Amex,Food,Fast Food
+2024-05-03,Wardrobe Co.,93.28,Discover,Merchandise,Clothing
+2024-02-07,City Utilities,1185.38,Discover,Travel & Housing,Rent/Utilities
+2024-10-05,Café Aurora,13.75,Visa,Food,Coffee
+2024-02-25,TuneTown,68.23,Visa,Entertainment,Music
+2024-10-15,GoCab,13.51,Visa,Travel & Housing,Rideshare
+2024-05-12,Festival Pass,141.73,Mastercard,Entertainment,Events
+2024-08-16,Readers' Roost,62.93,Mastercard,Merchandise,Books
+2024-06-25,QuickBite,12.32,Visa,Food,Fast Food
+2024-02-29,Melody Mart,40.88,Mastercard,Entertainment,Music
+2024-09-23,GoCab,13.08,Discover,Travel & Housing,Rideshare
+2024-06-12,Daily Brew,12.72,Visa,Food,Coffee
+2024-01-12,ElectroMart,325.02,Mastercard,Merchandise,Electronics
+2024-09-21,City Concerts,99.47,Discover,Entertainment,Events
+2024-08-24,JoyStick Arena,26.21,Discover,Entertainment,Games
+2024-07-21,Door2Dish,33.58,Discover,Food,Delivery
+2024-07-18,Bistro 21,33.09,Visa,Food,Dining
+2024-10-22,Door2Dish,29.56,Mastercard,Food,Delivery
+2024-08-22,Café Aurora,13.35,Amex,Food,Coffee
+2024-11-01,City Utilities,1194.66,Amex,Travel & Housing,Rent/Utilities
+2024-06-29,RentPay,1636.79,Amex,Travel & Housing,Rent/Utilities
+2024-11-10,Urban Diner,22.66,Amex,Food,Dining
+2024-02-29,SoundWave,22.72,Discover,Entertainment,Music
+2024-08-02,Arena Tickets,120.18,Discover,Entertainment,Events
+2024-11-21,City Concerts,135.17,Mastercard,Entertainment,Events
+2024-04-05,BookHaven,9.02,Amex,Merchandise,Books
+2024-01-05,Grand Stay Hotel,377.93,Discover,Travel & Housing,Lodging
+2024-07-28,Rapid Rail,17.12,Discover,Travel & Housing,Public Transit
+2024-03-26,Door2Dish,50.2,Mastercard,Food,Delivery
+2024-05-29,Daily Brew,9.45,Mastercard,Food,Coffee
+2024-08-22,Power & Water Co.,270.76,Visa,Travel & Housing,Rent/Utilities
+2024-05-17,Glow & Co.,92.4,Discover,Merchandise,Personal Care
+2024-10-06,PlayPort,89.64,Mastercard,Entertainment,Games
+2024-06-01,Burger Hub,13.27,Visa,Food,Fast Food
+2024-08-12,Bistro 21,67.7,Amex,Food,Dining
+2024-12-29,Harbor Inn,114.3,Mastercard,Travel & Housing,Lodging
+2024-04-15,MealDash,37.55,Mastercard,Food,Delivery
+2024-06-14,Living Loft,74.16,Visa,Merchandise,Home Goods
+2024-03-10,SkyWings,704.27,Mastercard,Travel & Housing,Flights
+2024-12-25,Streamify,20.09,Mastercard,Entertainment,Streaming
+2024-12-12,Metro Transit,12.39,Amex,Travel & Housing,Public Transit
+2024-11-17,City Line,3.36,Visa,Travel & Housing,Public Transit
+2024-07-25,HomeWorks,238.06,Amex,Merchandise,Home Goods
+2024-10-24,SuperFoods,146.38,Amex,Food,Groceries
+2024-02-02,City Suites,381.69,Discover,Travel & Housing,Lodging
+2024-05-17,HomeWorks,141.35,Mastercard,Merchandise,Home Goods
+2024-10-16,MoveNow,47.64,Visa,Travel & Housing,Rideshare
+2024-02-20,AeroAirlines,749.19,Mastercard,Travel & Housing,Flights
+2024-08-13,SkyWings,225.67,Mastercard,Travel & Housing,Flights
+2024-11-28,Urban Threads,32.27,Amex,Merchandise,Clothing
+2024-05-08,Café Aurora,13.85,Mastercard,Food,Coffee
+2024-01-27,MoveNow,44.37,Mastercard,Travel & Housing,Rideshare
+2024-08-07,Whole Market,47.74,Visa,Food,Groceries
+2024-03-08,Festival Pass,125.14,Visa,Entertainment,Events
+2024-12-22,Gizmo World,285.26,Discover,Merchandise,Electronics
+2024-02-06,PlayPort,89.04,Visa,Entertainment,Games
+2024-02-22,HomeWorks,42.91,Mastercard,Merchandise,Home Goods
