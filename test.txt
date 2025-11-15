@@ -1,0 +1,15 @@
+Food - Grocery; Restaurants, Liquor
+
+Shopping - Clothing , Electronics, Home improvements, Supermarkets
+
+Personal Care - Beauty, Medical
+
+TBNP - Entertainment, Hobbies, Gifts, 
+
+Travel - Parking, Gas, tolls/fees, car costs
+
+Vacation - 
+
+Housing
+
+Bank Transactions - Savings, Interest/Dividend, Payments and Transfers
