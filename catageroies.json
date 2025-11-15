@@ -1,0 +1,69 @@
+{
+    "categories": [
+        {
+            "category": "Food",
+            "subcategories": [
+                "Groceries",
+                "Restaurants",
+                "Liquor"
+            ]
+        },
+        {
+            "category": "Travel",
+            "subcategories": [
+                "Parking",
+                "Gas",
+                "tolls/fees",
+                "car costs"
+            ]
+        },
+        {
+            "category": "Shopping",
+            "subcategories": [
+                "Clothing",
+                "Electronics",
+                "Home improvements",
+                "Supermarkets"
+            ]
+        },
+        {
+           "category": "TBNP",
+            "subcategories": [
+                "Entertainment",
+                "Hobbies",
+                "Gifts"
+            ] 
+        },
+        {
+           "category": "Vacation",
+            "subcategories": [
+                "Lodging",
+                "Flights",
+                "Activities"
+            ] 
+        },
+        {
+           "category": "Housing",
+            "subcategories": [
+                "Rent/Mortgage",
+                "Utilities",
+                "Repairs"
+            ] 
+        },
+        {
+           "category": "Bank Transactions",
+            "subcategories": [
+                "Savings",
+                "Interest/Dividend",
+                "Payments and Transfers"
+            ] 
+        },
+        {
+           "category": "Personal Care",
+            "subcategories": [
+                "Beauty",
+                "Medical"
+            ] 
+        }
+    ]
+}
