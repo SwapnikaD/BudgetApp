@@ -1,0 +1,5 @@
+AppVenv/
+venv/
+_pycache_/
+Source files/
+*.pyc

@@ -1,501 +1,135 @@
-Description,Category,sub-category
-SuperFoods,Food,Groceries
-Door2Dish,Food,Delivery
-Bistro 21,Food,Dining
-Arena Tickets,Entertainment,Events
-GameHub,Entertainment,Games
-FreshMart,Food,Groceries
-ElectroMart,Merchandise,Electronics
-MealDash,Food,Delivery
-Silver Screen Cinema,Entertainment,Movies
-Downtown Movies,Entertainment,Movies
-Nest & Nook,Merchandise,Home Goods
-Festival Pass,Entertainment,Events
-Glow & Co.,Merchandise,Personal Care
-Bean & Leaf,Food,Coffee
-Wardrobe Co.,Merchandise,Clothing
-Style Street,Merchandise,Clothing
-City Utilities,Travel & Housing,Rent/Utilities
-AeroAirlines,Travel & Housing,Flights
-JoyStick Arena,Entertainment,Games
-City Utilities,Travel & Housing,Rent/Utilities
-MealDash,Food,Delivery
-PageTurner Books,Merchandise,Books
-City Concerts,Entertainment,Events
-BingeBox,Entertainment,Streaming
-PageTurner Books,Merchandise,Books
-Silver Screen Cinema,Entertainment,Movies
-JetTrail,Travel & Housing,Flights
-RentPay,Travel & Housing,Rent/Utilities
-Melody Mart,Entertainment,Music
-AeroAirlines,Travel & Housing,Flights
-City Concerts,Entertainment,Events
-FreshMart,Food,Groceries
-Harbor Inn,Travel & Housing,Lodging
-Metro Transit,Travel & Housing,Public Transit
-City Line,Travel & Housing,Public Transit
-FreshMart,Food,Groceries
-CinemaCloud,Entertainment,Streaming
-PageTurner Books,Merchandise,Books
-SuperFoods,Food,Groceries
-BingeBox,Entertainment,Streaming
-Urban Diner,Food,Dining
-GoCab,Travel & Housing,Rideshare
-TuneTown,Entertainment,Music
-SuperFoods,Food,Groceries
-Bistro 21,Food,Dining
-Door2Dish,Food,Delivery
-Taco Corner,Food,Fast Food
-TuneTown,Entertainment,Music
-Readers' Roost,Merchandise,Books
-Power & Water Co.,Travel & Housing,Rent/Utilities
-Arena Tickets,Entertainment,Events
-Melody Mart,Entertainment,Music
-MealDash,Food,Delivery
-TechPoint,Merchandise,Electronics
-Glow & Co.,Merchandise,Personal Care
-BeautyBay,Merchandise,Personal Care
-RideFly,Travel & Housing,Rideshare
-Wardrobe Co.,Merchandise,Clothing
-Whole Market,Food,Groceries
-Café Aurora,Food,Coffee
-Bean & Leaf,Food,Coffee
-CinemaCloud,Entertainment,Streaming
-Streamify,Entertainment,Streaming
-Garden Grill,Food,Dining
-TuneTown,Entertainment,Music
-QuickBite,Food,Fast Food
-Style Street,Merchandise,Clothing
-Nest & Nook,Merchandise,Home Goods
-City Utilities,Travel & Housing,Rent/Utilities
-Arena Tickets,Entertainment,Events
-BookHaven,Merchandise,Books
-TuneTown,Entertainment,Music
-Melody Mart,Entertainment,Music
-ElectroMart,Merchandise,Electronics
-GoCab,Travel & Housing,Rideshare
-Rapid Rail,Travel & Housing,Public Transit
-BookHaven,Merchandise,Books
-JoyStick Arena,Entertainment,Games
-Rapid Rail,Travel & Housing,Public Transit
-Café Aurora,Food,Coffee
-TuneTown,Entertainment,Music
-Urban Diner,Food,Dining
-RentPay,Travel & Housing,Rent/Utilities
-Grand Stay Hotel,Travel & Housing,Lodging
-Grand Stay Hotel,Travel & Housing,Lodging
-Downtown Movies,Entertainment,Movies
-BookHaven,Merchandise,Books
-Harbor Inn,Travel & Housing,Lodging
-SoundWave,Entertainment,Music
-JetTrail,Travel & Housing,Flights
-Glow & Co.,Merchandise,Personal Care
-Streamify,Entertainment,Streaming
-Metro Transit,Travel & Housing,Public Transit
-MealDash,Food,Delivery
-Rapid Rail,Travel & Housing,Public Transit
-Melody Mart,Entertainment,Music
-City Suites,Travel & Housing,Lodging
-SuperFoods,Food,Groceries
-Bean & Leaf,Food,Coffee
-Readers' Roost,Merchandise,Books
-QuickBite,Food,Fast Food
-ReelHouse,Entertainment,Movies
-ReelHouse,Entertainment,Movies
-Door2Dish,Food,Delivery
-Festival Pass,Entertainment,Events
-ElectroMart,Merchandise,Electronics
-Rapid Rail,Travel & Housing,Public Transit
-Glow & Co.,Merchandise,Personal Care
-RideFly,Travel & Housing,Rideshare
-Metro Transit,Travel & Housing,Public Transit
-City Suites,Travel & Housing,Lodging
-City Line,Travel & Housing,Public Transit
-Downtown Movies,Entertainment,Movies
-RideFly,Travel & Housing,Rideshare
-City Suites,Travel & Housing,Lodging
-Glow & Co.,Merchandise,Personal Care
-GameHub,Entertainment,Games
-City Line,Travel & Housing,Public Transit
-JoyStick Arena,Entertainment,Games
-BookHaven,Merchandise,Books
-GoCab,Travel & Housing,Rideshare
-ElectroMart,Merchandise,Electronics
-GameHub,Entertainment,Games
-TuneTown,Entertainment,Music
-TuneTown,Entertainment,Music
-PlayPort,Entertainment,Games
-City Line,Travel & Housing,Public Transit
-AeroAirlines,Travel & Housing,Flights
-Bistro 21,Food,Dining
-ReelHouse,Entertainment,Movies
-City Line,Travel & Housing,Public Transit
-QuickEats,Food,Delivery
-SoundWave,Entertainment,Music
-Bistro 21,Food,Dining
-Urban Diner,Food,Dining
-SoundWave,Entertainment,Music
-Door2Dish,Food,Delivery
-Whole Market,Food,Groceries
-Taco Corner,Food,Fast Food
-Metro Transit,Travel & Housing,Public Transit
-TechPoint,Merchandise,Electronics
-Glow & Co.,Merchandise,Personal Care
-RideFly,Travel & Housing,Rideshare
-SkyWings,Travel & Housing,Flights
-Urban Diner,Food,Dining
-RentPay,Travel & Housing,Rent/Utilities
-Gizmo World,Merchandise,Electronics
-Metro Transit,Travel & Housing,Public Transit
-Metro Transit,Travel & Housing,Public Transit
-Metro Transit,Travel & Housing,Public Transit
-SoundWave,Entertainment,Music
-Downtown Movies,Entertainment,Movies
-Care Corner,Merchandise,Personal Care
-JoyStick Arena,Entertainment,Games
-Downtown Movies,Entertainment,Movies
-Gizmo World,Merchandise,Electronics
-City Utilities,Travel & Housing,Rent/Utilities
-Wardrobe Co.,Merchandise,Clothing
-SkyWings,Travel & Housing,Flights
-PlayPort,Entertainment,Games
-JetTrail,Travel & Housing,Flights
-Grand Stay Hotel,Travel & Housing,Lodging
-SkyWings,Travel & Housing,Flights
-RentPay,Travel & Housing,Rent/Utilities
-Wardrobe Co.,Merchandise,Clothing
-QuickBite,Food,Fast Food
-Gizmo World,Merchandise,Electronics
-Arena Tickets,Entertainment,Events
-ReelHouse,Entertainment,Movies
-BingeBox,Entertainment,Streaming
-Burger Hub,Food,Fast Food
-MoveNow,Travel & Housing,Rideshare
-Readers' Roost,Merchandise,Books
-Urban Diner,Food,Dining
-ElectroMart,Merchandise,Electronics
-QuickEats,Food,Delivery
-Wardrobe Co.,Merchandise,Clothing
-ReelHouse,Entertainment,Movies
-MealDash,Food,Delivery
-PageTurner Books,Merchandise,Books
-Urban Threads,Merchandise,Clothing
-Gizmo World,Merchandise,Electronics
-City Utilities,Travel & Housing,Rent/Utilities
-Glow & Co.,Merchandise,Personal Care
-RideFly,Travel & Housing,Rideshare
-Glow & Co.,Merchandise,Personal Care
-PageTurner Books,Merchandise,Books
-AeroAirlines,Travel & Housing,Flights
-MoveNow,Travel & Housing,Rideshare
-JoyStick Arena,Entertainment,Games
-RideFly,Travel & Housing,Rideshare
-City Suites,Travel & Housing,Lodging
-Gizmo World,Merchandise,Electronics
-Garden Grill,Food,Dining
-Style Street,Merchandise,Clothing
-City Concerts,Entertainment,Events
-City Concerts,Entertainment,Events
-Style Street,Merchandise,Clothing
-Daily Brew,Food,Coffee
-TechPoint,Merchandise,Electronics
-City Line,Travel & Housing,Public Transit
-City Concerts,Entertainment,Events
-FreshMart,Food,Groceries
-Taco Corner,Food,Fast Food
-Glow & Co.,Merchandise,Personal Care
-BookHaven,Merchandise,Books
-JetTrail,Travel & Housing,Flights
-City Suites,Travel & Housing,Lodging
-SkyWings,Travel & Housing,Flights
-PlayPort,Entertainment,Games
-JetTrail,Travel & Housing,Flights
-QuickEats,Food,Delivery
-BookHaven,Merchandise,Books
-Nest & Nook,Merchandise,Home Goods
-Grand Stay Hotel,Travel & Housing,Lodging
-Glow & Co.,Merchandise,Personal Care
-TechPoint,Merchandise,Electronics
-TechPoint,Merchandise,Electronics
-Silver Screen Cinema,Entertainment,Movies
-City Line,Travel & Housing,Public Transit
-Whole Market,Food,Groceries
-Bean & Leaf,Food,Coffee
-City Line,Travel & Housing,Public Transit
-SkyWings,Travel & Housing,Flights
-TechPoint,Merchandise,Electronics
-TuneTown,Entertainment,Music
-TechPoint,Merchandise,Electronics
-JoyStick Arena,Entertainment,Games
-SkyWings,Travel & Housing,Flights
-City Utilities,Travel & Housing,Rent/Utilities
-QuickBite,Food,Fast Food
-RideFly,Travel & Housing,Rideshare
-City Utilities,Travel & Housing,Rent/Utilities
-Urban Threads,Merchandise,Clothing
-QuickEats,Food,Delivery
-Streamify,Entertainment,Streaming
-Silver Screen Cinema,Entertainment,Movies
-Power & Water Co.,Travel & Housing,Rent/Utilities
-Urban Threads,Merchandise,Clothing
-Living Loft,Merchandise,Home Goods
-Metro Transit,Travel & Housing,Public Transit
-QuickEats,Food,Delivery
-Taco Corner,Food,Fast Food
-RentPay,Travel & Housing,Rent/Utilities
-ElectroMart,Merchandise,Electronics
-Rapid Rail,Travel & Housing,Public Transit
-HomeWorks,Merchandise,Home Goods
-Daily Brew,Food,Coffee
-Glow & Co.,Merchandise,Personal Care
-PageTurner Books,Merchandise,Books
-RideFly,Travel & Housing,Rideshare
-City Utilities,Travel & Housing,Rent/Utilities
-Melody Mart,Entertainment,Music
-Daily Brew,Food,Coffee
-Glow & Co.,Merchandise,Personal Care
-City Concerts,Entertainment,Events
-Urban Threads,Merchandise,Clothing
-Melody Mart,Entertainment,Music
-City Line,Travel & Housing,Public Transit
-City Concerts,Entertainment,Events
-MoveNow,Travel & Housing,Rideshare
-Urban Diner,Food,Dining
-Urban Diner,Food,Dining
-Taco Corner,Food,Fast Food
-Style Street,Merchandise,Clothing
-Style Street,Merchandise,Clothing
-GameHub,Entertainment,Games
-Style Street,Merchandise,Clothing
-Urban Threads,Merchandise,Clothing
-AeroAirlines,Travel & Housing,Flights
-QuickEats,Food,Delivery
-JetTrail,Travel & Housing,Flights
-MealDash,Food,Delivery
-JetTrail,Travel & Housing,Flights
-Daily Brew,Food,Coffee
-Style Street,Merchandise,Clothing
-JoyStick Arena,Entertainment,Games
-QuickBite,Food,Fast Food
-Bean & Leaf,Food,Coffee
-Urban Diner,Food,Dining
-Nest & Nook,Merchandise,Home Goods
-City Line,Travel & Housing,Public Transit
-MoveNow,Travel & Housing,Rideshare
-Taco Corner,Food,Fast Food
-Nest & Nook,Merchandise,Home Goods
-Power & Water Co.,Travel & Housing,Rent/Utilities
-JetTrail,Travel & Housing,Flights
-MoveNow,Travel & Housing,Rideshare
-MoveNow,Travel & Housing,Rideshare
-Festival Pass,Entertainment,Events
-Garden Grill,Food,Dining
-Door2Dish,Food,Delivery
-JetTrail,Travel & Housing,Flights
-Nest & Nook,Merchandise,Home Goods
-City Utilities,Travel & Housing,Rent/Utilities
-PageTurner Books,Merchandise,Books
-Grand Stay Hotel,Travel & Housing,Lodging
-PlayPort,Entertainment,Games
-ElectroMart,Merchandise,Electronics
-SoundWave,Entertainment,Music
-PlayPort,Entertainment,Games
-City Concerts,Entertainment,Events
-Rapid Rail,Travel & Housing,Public Transit
-Burger Hub,Food,Fast Food
-BingeBox,Entertainment,Streaming
-TuneTown,Entertainment,Music
-Gizmo World,Merchandise,Electronics
-Care Corner,Merchandise,Personal Care
-CinemaCloud,Entertainment,Streaming
-Whole Market,Food,Groceries
-Arena Tickets,Entertainment,Events
-HomeWorks,Merchandise,Home Goods
-JetTrail,Travel & Housing,Flights
-Metro Transit,Travel & Housing,Public Transit
-HomeWorks,Merchandise,Home Goods
-Daily Brew,Food,Coffee
-Streamify,Entertainment,Streaming
-Grand Stay Hotel,Travel & Housing,Lodging
-JoyStick Arena,Entertainment,Games
-FreshMart,Food,Groceries
-TechPoint,Merchandise,Electronics
-FreshMart,Food,Groceries
-RideFly,Travel & Housing,Rideshare
-Gizmo World,Merchandise,Electronics
-Bistro 21,Food,Dining
-Style Street,Merchandise,Clothing
-Whole Market,Food,Groceries
-Harbor Inn,Travel & Housing,Lodging
-Urban Threads,Merchandise,Clothing
-Care Corner,Merchandise,Personal Care
-Bean & Leaf,Food,Coffee
-ElectroMart,Merchandise,Electronics
-Harbor Inn,Travel & Housing,Lodging
-ReelHouse,Entertainment,Movies
-Burger Hub,Food,Fast Food
-JoyStick Arena,Entertainment,Games
-City Concerts,Entertainment,Events
-RideFly,Travel & Housing,Rideshare
-Living Loft,Merchandise,Home Goods
-Urban Threads,Merchandise,Clothing
-GoCab,Travel & Housing,Rideshare
-QuickEats,Food,Delivery
-TuneTown,Entertainment,Music
-MoveNow,Travel & Housing,Rideshare
-Care Corner,Merchandise,Personal Care
-Streamify,Entertainment,Streaming
-Silver Screen Cinema,Entertainment,Movies
-ReelHouse,Entertainment,Movies
-Rapid Rail,Travel & Housing,Public Transit
-TechPoint,Merchandise,Electronics
-Urban Diner,Food,Dining
-Metro Transit,Travel & Housing,Public Transit
-Café Aurora,Food,Coffee
-Power & Water Co.,Travel & Housing,Rent/Utilities
-RideFly,Travel & Housing,Rideshare
-MoveNow,Travel & Housing,Rideshare
-CinemaCloud,Entertainment,Streaming
-Gizmo World,Merchandise,Electronics
-RideFly,Travel & Housing,Rideshare
-GoCab,Travel & Housing,Rideshare
-Style Street,Merchandise,Clothing
-JoyStick Arena,Entertainment,Games
-Bean & Leaf,Food,Coffee
-City Suites,Travel & Housing,Lodging
-Power & Water Co.,Travel & Housing,Rent/Utilities
-MealDash,Food,Delivery
-SuperFoods,Food,Groceries
-BingeBox,Entertainment,Streaming
-Arena Tickets,Entertainment,Events
-Harbor Inn,Travel & Housing,Lodging
-MoveNow,Travel & Housing,Rideshare
-City Concerts,Entertainment,Events
-Door2Dish,Food,Delivery
-Bean & Leaf,Food,Coffee
-GoCab,Travel & Housing,Rideshare
-Door2Dish,Food,Delivery
-Arena Tickets,Entertainment,Events
-Bean & Leaf,Food,Coffee
-Grand Stay Hotel,Travel & Housing,Lodging
-Silver Screen Cinema,Entertainment,Movies
-Bistro 21,Food,Dining
-Garden Grill,Food,Dining
-Silver Screen Cinema,Entertainment,Movies
-Care Corner,Merchandise,Personal Care
-Wardrobe Co.,Merchandise,Clothing
-ElectroMart,Merchandise,Electronics
-City Utilities,Travel & Housing,Rent/Utilities
-City Utilities,Travel & Housing,Rent/Utilities
-PageTurner Books,Merchandise,Books
-SoundWave,Entertainment,Music
-Rapid Rail,Travel & Housing,Public Transit
-Urban Threads,Merchandise,Clothing
-QuickEats,Food,Delivery
-Power & Water Co.,Travel & Housing,Rent/Utilities
-PlayPort,Entertainment,Games
-Bistro 21,Food,Dining
-Festival Pass,Entertainment,Events
-HomeWorks,Merchandise,Home Goods
-Living Loft,Merchandise,Home Goods
-RideFly,Travel & Housing,Rideshare
-Streamify,Entertainment,Streaming
-BingeBox,Entertainment,Streaming
-HomeWorks,Merchandise,Home Goods
-TuneTown,Entertainment,Music
-Door2Dish,Food,Delivery
-FreshMart,Food,Groceries
-Silver Screen Cinema,Entertainment,Movies
-Metro Transit,Travel & Housing,Public Transit
-QuickEats,Food,Delivery
-Grand Stay Hotel,Travel & Housing,Lodging
-Festival Pass,Entertainment,Events
-SkyWings,Travel & Housing,Flights
-BingeBox,Entertainment,Streaming
-FreshMart,Food,Groceries
-Bistro 21,Food,Dining
-Glow & Co.,Merchandise,Personal Care
-Arena Tickets,Entertainment,Events
-Care Corner,Merchandise,Personal Care
-Garden Grill,Food,Dining
-Wardrobe Co.,Merchandise,Clothing
-BookHaven,Merchandise,Books
-TechPoint,Merchandise,Electronics
-RideFly,Travel & Housing,Rideshare
-SoundWave,Entertainment,Music
-JetTrail,Travel & Housing,Flights
-FreshMart,Food,Groceries
-Nest & Nook,Merchandise,Home Goods
-Nest & Nook,Merchandise,Home Goods
-Power & Water Co.,Travel & Housing,Rent/Utilities
-Café Aurora,Food,Coffee
-Bean & Leaf,Food,Coffee
-Festival Pass,Entertainment,Events
-Melody Mart,Entertainment,Music
-GameHub,Entertainment,Games
-Nest & Nook,Merchandise,Home Goods
-PlayPort,Entertainment,Games
-BeautyBay,Merchandise,Personal Care
-BookHaven,Merchandise,Books
-Care Corner,Merchandise,Personal Care
-GoCab,Travel & Housing,Rideshare
-Melody Mart,Entertainment,Music
-Door2Dish,Food,Delivery
-Taco Corner,Food,Fast Food
-Taco Corner,Food,Fast Food
-Wardrobe Co.,Merchandise,Clothing
-City Utilities,Travel & Housing,Rent/Utilities
-Café Aurora,Food,Coffee
-TuneTown,Entertainment,Music
-GoCab,Travel & Housing,Rideshare
-Festival Pass,Entertainment,Events
-Readers' Roost,Merchandise,Books
-QuickBite,Food,Fast Food
-Melody Mart,Entertainment,Music
-GoCab,Travel & Housing,Rideshare
-Daily Brew,Food,Coffee
-ElectroMart,Merchandise,Electronics
-City Concerts,Entertainment,Events
-JoyStick Arena,Entertainment,Games
-Door2Dish,Food,Delivery
-Bistro 21,Food,Dining
-Door2Dish,Food,Delivery
-Café Aurora,Food,Coffee
-City Utilities,Travel & Housing,Rent/Utilities
-RentPay,Travel & Housing,Rent/Utilities
-Urban Diner,Food,Dining
-SoundWave,Entertainment,Music
-Arena Tickets,Entertainment,Events
-City Concerts,Entertainment,Events
-BookHaven,Merchandise,Books
-Grand Stay Hotel,Travel & Housing,Lodging
-Rapid Rail,Travel & Housing,Public Transit
-Door2Dish,Food,Delivery
-Daily Brew,Food,Coffee
-Power & Water Co.,Travel & Housing,Rent/Utilities
-Glow & Co.,Merchandise,Personal Care
-PlayPort,Entertainment,Games
-Burger Hub,Food,Fast Food
-Bistro 21,Food,Dining
-Harbor Inn,Travel & Housing,Lodging
-MealDash,Food,Delivery
-Living Loft,Merchandise,Home Goods
-SkyWings,Travel & Housing,Flights
-Streamify,Entertainment,Streaming
-Metro Transit,Travel & Housing,Public Transit
-City Line,Travel & Housing,Public Transit
-HomeWorks,Merchandise,Home Goods
-SuperFoods,Food,Groceries
-City Suites,Travel & Housing,Lodging
-HomeWorks,Merchandise,Home Goods
-MoveNow,Travel & Housing,Rideshare
-AeroAirlines,Travel & Housing,Flights
-SkyWings,Travel & Housing,Flights
-Urban Threads,Merchandise,Clothing
-Café Aurora,Food,Coffee
-MoveNow,Travel & Housing,Rideshare
-Whole Market,Food,Groceries
-Festival Pass,Entertainment,Events
-Gizmo World,Merchandise,Electronics
-PlayPort,Entertainment,Games
-HomeWorks,Merchandise,Home Goods
+description,category,sub-category
+GIANT MARTINS #6524 STATE COLLEGEPA,Food,Groceries
+APNA BAZAR FARMERS MARKETMECHANICSBURGPA,Food,Groceries
+PENN STATE FOOD SERVIC   UNIVERSITY PAPA,Food,Restaurants
+PANERA BREAD #601360 K STATE COLLEGEPA,Food,Restaurants
+LEVELUPSAXBYS16072890    8554665585   MA,Food,Restaurants
+CHICK-FIL-A #02603 STATE COLLEGEPA,Food,Restaurants
+WEIS MARKETS 033         STATE COLLEGEPA,Food,Groceries
+MEZEH                    STATE COLLEGEPA,Food,Restaurants
+PANERA BREAD #203989 K KING OF PRUSSPAAPPLE PAY ENDING IN 077202280R,Food,Restaurants
+APPLEBEES 473992047398 814-2353890 PA,Food,Restaurants
+OLIVE GARDEN ZK 0021383 LANCASTER PA,Food,Restaurants
+WINE AND SPIRITS 1405 STATE COLLEGEPA,Food,Liquor
+STARBUCKS STORE 09774    STATE COLLEGEPA,Food,Restaurants
+WEGMANS #098 STATE COLLEGEPAAPPLE PAY ENDING IN 0772,Food,Groceries
+DOMINO'S 4761 STATE COLLEGEPA,Food,Restaurants
+SU'S INTERNATIONAL MARK STATE COLLEGEPA,Food,Groceries
+APNA BAZAR FARMERS MARKETMECHANICSBURGPA,Food,Groceries
+BANANA LEAF CUISINE MECHANICSBURGPA,Food,Restaurants
+INSOMNIA COOKIES-STCOL 877-632-6654 PA,Food,Restaurants
+SQ *CHEW CHEW BUN State CollegePA,Food,Restaurants
+SNACK* CAFE WOW WWW.SNACKPASSCA,Food,Restaurants
+MINTT INDIAN CUSINE MONROEVILLE PA,Food,Restaurants
+OLIVE GARDEN 0021552 STATE COLLEGEPA,Food,Restaurants
+CHIPOTLE 0194 ROSSLYN VA,Food,Restaurants
+SQ *SHER HALAL GYRO&GRILLState CollegePA,Food,Restaurants
+PATEL BROTHERS MONROEVILLE PA,Food,Groceries
+MEZEHMEDITERRANEANGRIL WWW.MEZEH.COMPA,Food,Restaurants
+TST* SAXBYS COFFEE - PENNUNIVERSITY PAPA,Food,Restaurants
+SNACK* THE WHALE TEA S 120-36845156 CA,Food,Restaurants
+GIANT 6005 MECHANICSBURGPA,Food,Groceries
+BOMBAY BAZZAR MECHANICSBURGPA,Food,Groceries
+MOMOTARO STATE COLLEGEPA,Food,Restaurants
+GLOBAL FOODS MARKET STATE COLLEGEPA,Food,Groceries
+SQ *MRWISHSTATECOLLEGE State CollegePA,Food,Restaurants
+NALAN INDIAN CUISINE LEMOYNE PA,Food,Restaurants
+THE GREEK INC 814-2351816 PA,Food,Restaurants
+COSTCO GAS #0317 LANCASTER PA,Travel,Gas
+SHEETZ 0782 00007823 LANCASTER PA,Travel,Gas
+PROGRESSIVE *INSURANCE 800-776-4737 OH,Travel,car costs
+LYFT RIDE SUN 4PM 855-865-9553 CA,Travel,car costs
+IAD DULLES HOURLY 53 DULLES VA,Travel,Parking
+SHEETZ 228700022871498 STATE COLLEGEPA,Travel,Gas
+COSTCO GAS #0649 WEST HOMESTEAPA,Travel,Gas
+GIANT FUEL 6072 STATE COLLEGEPA02818R,Travel,Gas
+SUNOCO 0794835900 ARLINGTON VA,Travel,Gas
+92553 - BWI LONG TERM B BALTIMORE MD,Travel,Parking
+UBER TRIP 866-576-1039 CA,Travel,car costs
+REDLINE SPEED SHINE CAR WSTATE COLLEGEPA,Travel,car costs
+PSU UNIVERSITY PARKING UNIVERSITY PKPA,Travel,Parking
+ADVANCE AUTO PARTS #6016 STATE COLLEGEPA,Travel,car costs
+UBER TRIP HELP.UBER.COMCA,Travel,car costs
+E-ZPass MA 877-6277745 MA,Travel,tolls/fees
+PSU UNIVERSITY PARKING UNIVERSITY PKPA,Travel,Parking
+QUICK FUEL STATE COLLEGEPA,Travel,Gas
+PARKMOBILE PMR 770-818-9036 GA,Travel,Parking
+SHELL OIL 57544917909 BEDFORD MA,Travel,Gas
+QT 1713 OUTSIDE STONECREST GA,Travel,Gas
+SIGNATURE AUTOMOTIVE SPECDECATUR GA,Travel,car costs
+UNI-MART #192 CAR WASH STATE COLLEGEPA,Travel,car costs
+VENMO DES:PAYMENT ID:XXXXX47419181 INDN:VAIDHEESWARA SHARMA GA CO ID:XXXXX81992 WEB,Housing,Rent/Mortgage
+COMCAST 8993113 DES:XXXXX0255 ID:5502865 INDN:VAIDHEESWARA SHARMA *G CO ID:XXXXX13249 PPD,Housing,Utilities
+GOOGLE *Microsoft 855-836-3987 CA,Housing,Utilities
+ACH DEBIT       XXXXX2576 FIRSTENERGY OPCO ACH,Housing,Utilities
+AMERICAN STRATEGIC INS,Housing,Rent/Mortgage
+MINT MOBILE 8006837392 CA,Housing,Utilities
+ACH CREDIT      XXXXX6520 PENN STATE UNIV  REG SALARY,Bank Transactions,Payments and Transfers
+DISCOVER DES:E-PAYMENT ID:7515 INDN:GANESAN VAIDHEESWA CO ID:XXXXX20270 WEB,Bank Transactions,Payments and Transfers
+BANK OF AMERICA CREDIT CARD Bill Payment,Bank Transactions,Payments and Transfers
+PAYMENT - THANK YOU,Bank Transactions,Payments and Transfers
+"AECOM TECHNOLOGY DES:DIRECT DEP ID:XXXXX9100183A46 INDN:GANESAN,VAIDHEESWARA CO ID:XXXXX11103 PPD",Bank Transactions,Payments and Transfers
+CITI CARD ONLINE DES:PAYMENT ID:XXXXXXXXXX22109 INDN:VAIDHEESWAR GANESAN CO ID:CITICTP WEB,Bank Transactions,Payments and Transfers
+INTEREST PAYMENT ,Bank Transactions,Interest/Dividend
+ACH WEBRECUR   PXXXXX8616 COMENITY APY F2  AUTO PAY,Bank Transactions,Payments and Transfers
+AUTOMATIC PAYMENT - THANK YOU,Bank Transactions,Payments and Transfers
+DIRECTPAY FULL BALANCESEE DETAILS OF YOUR NEXT DIRECTPAY BELOW,Bank Transactions,Payments and Transfers
+ZELLE TO  VAIDHEESWARA GANESAN ,Bank Transactions,Payments and Transfers
+MOBILE DEPOSIT                       XXXXX0512 ,Bank Transactions,Payments and Transfers
+Zelle payment from KEERTHANA GOVINDARAZAN Conf# AA0Hwv77l,Bank Transactions,Payments and Transfers
+BARCLAYCARD US DES:CREDITCARD ID:XXXXX78330 INDN:VAIDHEESWARA GANESAN CO ID:XXXXX07970 WEB,Bank Transactions,Payments and Transfers
+Payment Received,Bank Transactions,Payments and Transfers
+DIGITAL FEDERAL DES:TRANSFER ID:45936895 INDN:VAIDHEESWARA SHARMA GA CO ID: XXXXX4845 WEB,Bank Transactions,Payments and Transfers
+ZELLE TO  KEERTHANA GOVINDARAZAN,Bank Transactions,Payments and Transfers
+Zelle payment from VAIDHEESWARA GANESAN  Conf# AA1Hzx77l,Bank Transactions,Payments and Transfers
+SCHLUMBERGER LIM DES:DV05DN2310 ID:CXXXXX62457SLB INDN:VAIDHEESWARA SHARMA GA CO ID:XXXXX12740 PPD,Bank Transactions,Interest/Dividend
+"AECOM TECHNICAL DES:EDI PYMNTS ID:4030160 INDN:Ganesan, Vaidhee CO ID:XXXXX88522 CTX ADDITIONAL INFORMATION IS AVAILABLE FOR THIS PMT. CONTACT A TREASURY SALES OFFICER FOR ASSISTANCE.",Bank Transactions,Payments and Transfers
+CVS/PHARMACY #01688 STATE COLLEGEPA,Personal Care,Medical
+MOUNT NITTANY MEDICAL CE 814-2317000 PA,Personal Care,Medical
+MEDEXPRESS STATE COLLEGE STATE COLLEGEPA,Personal Care,Medical
+TELADOC 972-865-2647 TX,Personal Care,Medical
+UNIVERSITY HEALTH PHARMACUNIVERSITY PKPA,Personal Care,Medical
+CHANGE *AETNA PROVIDERPAY800-4954685 TN,Personal Care,Medical
+PSU FITNESS CENTER UNIVERSITY PKPA,Personal Care,Medical
+QUEST DIAGNOSTICS 866-254-3859 PA,Personal Care,Medical
+4771 GREAT CLIPS AT NORT STATE COLLEGEPA,Personal Care,Beauty
+SEPHORA LENOX SQUARE ATLANTA GA,Personal Care,Beauty
+LUSH PARK CITY ( 731 ) LANCASTER PA,Personal Care,Beauty
+BATH AND BODY WORKS 3457 STATE COLLEGEPA,Personal Care,Beauty
+Amazon.com*ZH2EO9573 Amzn.com/billWA,Shopping,Supermarkets
+AMZN MKTP US*ZJ1N73XU3 AMAMZN.COM/BILLWA,Shopping,Supermarkets
+AMZN Mktp US*WQ42C0PC3 Amzn.com/billWA,Shopping,Supermarkets
+WALMART.COM 800-966-6546 AR,Shopping,Supermarkets
+TARGET 00012880091 STATE COLLEGEPA,Shopping,Supermarkets
+TARGET.COM * 800-591-3869 MN,Shopping,Supermarkets
+WAL-MART #1640 STATE COLLEGEPA,Shopping,Supermarkets
+WALMART SC 01640 STATE COLLEGEPA,Shopping,Supermarkets
+WM SUPERCENTER #1640 STATE COLLEG CREDIT,Shopping,Supermarkets
+WALMART STORE 01640 STATE COLLEGEPA,Shopping,Supermarkets
+COSTCO WHSE #0649 WEST HOMESTEAPA,Shopping,Supermarkets
+LOWES #02355* STATE COLLEGEPA,Shopping,Home improvements
+LOWES #02355*,Shopping,Home improvements
+THE HOME DEPOT #6841 STATE COLLEGEPA,Shopping,Home improvements
+IKEA PITTSBURGH PITTSBURGH PA,Shopping,Home improvements
+NORTHLAND BWL/ARENA B&G STATE COLLEGEPA,TBNP,Entertainment
+MASTER GOBLIN GAMES LLC STATE COLLEGEPA,TBNP,Entertainment
+UEC COLLEGE 9            STATE COLLEGEPA,TBNP,Entertainment
+CENTURY SQUARE THEATER 412-655-7400 PA,TBNP,Entertainment
+SEE TICKETS *Monroe Marti323-9080607 CA,TBNP,Entertainment
+OLD NAVY US 4587 LANCASTER PA,Shopping,Clothing
+H&M0488 LANCASTER PA,Shopping,Clothing
+BR FACTORY US 6284,Shopping,Clothing
+OLD NAVY US 4587,Shopping,Clothing
+GAP OUTLET US 7957,Shopping,Clothing
+TJMAXX #0784 STATE COLLEGEPA,Shopping,Clothing
+SHOE DEPT 0337 ALTOONA PA,Shopping,Clothing
+MICHAELS #9490 800-642-4235 TX,TBNP,Hobbies
+BESTBUYCOM806696987397 888BESTBUY MN,Shopping,Electronics
+APPLE.COM/US 800-676-2775 CA,Shopping,Electronics
+Xoom.com DES:DEBIT O ID:XXXXXXXXXX27943 INDN:GANESAN VAIDHEESWARA S CO ID:XXXXX01054 WEB,TBNP,Gifts
+AIRBNB HMZFCYHMTY AIRBNB.COM CA,Vacation,Lodging
+SPIRIT AIRL 4870348945236800-7727117 FL,Vacation,Flights
+FRONTIER AI B9C67P DENVER CO,Vacation,Flights
+HAMPTON INNS 614-8890573 OH,Vacation,Lodging
+SLEEP INN PA421 STATE COLLEGEPA,Vacation,Lodging
+QATAR AIRWAY0002397316868WASHINGTON DC,Vacation,Flights

@@ -375,7 +375,7 @@ else:
 # Navigation
 st.sidebar.markdown("---")
 st.sidebar.title("Navigation")
-page = st.sidebar.selectbox("Choose a page", ["Dashboard", "Transaction Analysis", "Data Review", "Analytics"])
+page = st.sidebar.selectbox("Choose a page", ["Dashboard", "Transaction Analysis", "Data Review", "Analytics","Data_review_VG"])
 
 # Load data only if files are selected
 if not selected_files:
@@ -613,6 +613,11 @@ elif page == "Data Review":
             st.success("🎉 All transactions have been successfully categorized!")
             st.balloons()
 
+elif page == "Data_review_VG":
+    st.header("🔍 Data Review VG")
+    if suggest_df is not None:
+        needs_review_df = suggest_df[suggest_df["needs_review"] == True]
+        st.data_editor(needs_review_df, use_container_width=True,column_config={"category":st.column_config.SelectboxColumn("category",options=[""])},column_order=["date","description","amount","card","category","sub-category"],disabled=["date","description","amount","card"])
 elif page == "Analytics":
     st.header("📈 Budget Analytics")
     
