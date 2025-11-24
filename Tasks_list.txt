@@ -1,0 +1,14 @@
+Modularization of app.py
+
+1) Main UI file will still be app.py - Mostly should only contain UI logic and flow 
+
+2) Parsing files in folder - parse_statement.py - Contains logic related to parsing individual files, 
+                            main file can call on function from this file to parse many files in a loop
+
+3) Categorize the standardized new input using original database (for now references.csv)
+            - logic has been moved to categorize_parsed_data.py
+
+4) Data review - user makes decisions and then the categorized transaction has the match type as manual & the transaction
+                disappears from "data review" page and starts to show up as categorized transaction in transaction analysis
+
+5) Data visualization - 
