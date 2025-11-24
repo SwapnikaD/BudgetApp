@@ -1,42 +1,66 @@
-"# 💰 Personal Budget Tracker
+# 💰 Personal Budget Tracker
 
-A comprehensive budget tracking application built with Streamlit that automatically categorizes transactions using fuzzy matching and provides interactive data visualization.
+A Streamlit app for tracking and categorizing personal transactions, with manual and automatic review, file selection, and analytics.
 
-## ✨ Features
+## Features
 
-- **🤖 Automatic Transaction Categorization**: Uses fuzzy matching to automatically categorize transactions based on description patterns
-- **📂 Flexible File Management**: Select any folder containing CSV files for analysis
-- **🎯 Interactive Data Review**: Manually categorize unmatched transactions with an intuitive interface
-- **📊 Visual Analytics**: Interactive charts and expense breakdowns by category and sub-category
-- **💾 Smart Learning**: New categorizations are saved and used for future automatic matching
-- **🔄 Real-time Updates**: Changes reflect immediately across all pages
+- **Folder & File Selection:** Choose any folder and CSV files for analysis.
+- **Pattern-Based Parsing:** Uses a patterns file for parsing credit card statements into a standardized format.
+- **Automatic & Manual Categorization:** Transactions are auto-categorized using reference data; unmatched transactions can be manually reviewed and categorized by user.
+- **Category/Subcategory Management:** Categories and subcategories are loaded from `categories.json` and can be extended/modified by the user during review.
+- **Analytics:** Visualizes spending by category and subcategory with charts.
 
-## 🚀 Getting Started
+## How It Works
 
-### Prerequisites
+1. **Process Inputs:**  
+    - Select a folder and CSV files.
+    - Click "Process" to parse and categorize transactions.
+    - Data is loaded and displayed for review.
 
-- Python 3.7 or higher
-- pip (Python package installer)
+2. **Transaction Analysis:**  
+    - View transactions that are already categorized (exact/manual).
+    - See breakdowns by category.
 
-### Installation
+3. **Data Review:**  
+    - Review and categorize unmatched transactions.
+    - Select category/subcategory from dropdowns (with "Add New" options).
+    - Save changes with the 💾 button.
+    - Progress bar shows review completion.
 
-1. **Clone or download the project**
-   ```bash
-   git clone <your-repo-url>
-   cd BudgetApp
-   ```
+4. **Master Data:**  
+    - View all data (old, parsed, combined).
+    - See metrics for auto/manual/needs review.
+    - Edit any errors or make wholesale changes.
 
-2. **Install required packages**
-   ```bash
-   pip install streamlit pandas numpy matplotlib rapidfuzz
-   ```
-   
-   Or install from requirements file:
-   ```bash
-   pip install -r requirements.txt
-   ```
+5. **Visualization:**  
+    - Charts for category and subcategory spending.
+    - Top categories and insights.
 
-3. **Prepare your data files**
+## File Structure
+
+- `app.py`: Main Streamlit app.
+- `categories.json`: Category and subcategory definitions.
+- `references.csv`: Stores transaction patterns and user categorizations.
+- `Patterns.csv`: Parsing patterns for transactions.
+- `Source files/`: Folder for your CSV transaction files.
+
+## Adding Categories/Subcategories
+
+- In Data Review, select "Add New Category" or "Add New Sub-Category" in dropdowns.
+- Enter the new value; it will be added to `categories.json` and used for future matching.
+
+## Requirements
+
+- Python 3.7+
+- `streamlit`, `pandas`, `numpy`, `matplotlib`, `rapidfuzz`
+
+## Usage
+
+```bash
+streamlit run app.py
+```
+
+Follow the sidebar to select files, process data, review/categorize transactions, and view analytics.
 
    Create the following structure:
    ```
@@ -54,19 +78,13 @@ A comprehensive budget tracking application built with Streamlit that automatica
 ### Required File Formats
 
 #### CSV Transaction Files
-Your CSV files should contain these columns (case-insensitive):
+Your CSV files should contain at least these columns (case-insensitive):
 - `date`: Transaction date
 - `description`: Transaction description
 - `amount`: Transaction amount (positive numbers)
-- `card`: Card or account identifier
 
-Example CSV format:
-```csv
-Date,Description,Amount,Card
-2025-01-15,GROCERY STORE PURCHASE,45.67,Credit Card
-2025-01-16,GAS STATION FUEL,32.10,Debit Card
-2025-01-17,RESTAURANT DINING,28.50,Credit Card
-```
+and must contain data in a table with headers. The header row must be input as a row in the patterns.csv file with the first column being the name or an identifier for the account/card followed by the header
+
 
 #### categories.json (Pre-configured)
 The app uses predefined categories from `categories.json`:
@@ -233,6 +251,4 @@ Edit `categories.json` to modify the predefined category structure:
 
 Feel free to submit issues, feature requests, or pull requests to improve the application.
 
-## 📄 License
 
-This project is open source and available under the MIT License." 
