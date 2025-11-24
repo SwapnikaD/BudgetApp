@@ -1,6 +1,7 @@
 ﻿Ann Taylor,Date,Description,Location,Category,Amount,
 PNC credit,Date,Description,Withdrawals,Deposits,Category,Balance
-BOA Checking,Posted Date,Reference Number,Payee,Address,Amount,
+BOA Credit,Posted Date,Reference Number,Payee,Address,Amount,
 Discover,Trans. Date,Post Date,Description,Amount,Category,
 Banana Republic,Transaction Date,Description,Category,Amount,,
 Citi Credit,Status,Date,Description,Debit,Credit,
+BOA Checking,Date,Description,Amount,Running Bal.,,

@@ -27,43 +27,43 @@
             ]
         },
         {
-           "category": "TBNP",
+            "category": "TBNP",
             "subcategories": [
                 "Entertainment",
                 "Hobbies",
                 "Gifts"
-            ] 
+            ]
         },
         {
-           "category": "Vacation",
+            "category": "Vacation",
             "subcategories": [
                 "Lodging",
                 "Flights",
                 "Activities"
-            ] 
+            ]
         },
         {
-           "category": "Housing",
+            "category": "Housing",
             "subcategories": [
                 "Rent/Mortgage",
                 "Utilities",
                 "Repairs"
-            ] 
+            ]
         },
         {
-           "category": "Bank Transactions",
+            "category": "Bank Transactions",
             "subcategories": [
                 "Savings",
                 "Interest/Dividend",
                 "Payments and Transfers"
-            ] 
+            ]
         },
         {
-           "category": "Personal Care",
+            "category": "Personal Care",
             "subcategories": [
                 "Beauty",
                 "Medical"
-            ] 
+            ]
         }
     ]
 }

@@ -3,3 +3,4 @@ venv/
 _pycache_/
 Source files/
 *.pyc
+Test.py
